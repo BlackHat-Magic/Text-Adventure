@@ -1,7 +1,11 @@
-import random
-import re
+from mcp.server.fastmcp import FastMCP
+from typing import Any
 
+import random, re, httpx
 
+mcp = FastMCP("dice")
+
+@mcp.tool()
 def roll_die(expression: str, repeat_number: int = 1, reroll_below: int = 1, drop_lowest: int = 0, advantage: bool = False, disadvantage: bool = False) -> str:
     results = []
     for _ in range(repeat_number):
@@ -53,26 +57,5 @@ def roll_die(expression: str, repeat_number: int = 1, reroll_below: int = 1, dro
         results.append(f'{expression}: {current_sum} ({', '.join(expression_results)})')
     return '\n'.join(results)
 
-
-# Test cases
-print(roll_die("1d20"))
-print(roll_die("1d20+5"))
-print(roll_die("2d6+3d4"))
-print(roll_die("1d20", repeat_number=3))
-print(roll_die("1d20", reroll_below=10))
-print(roll_die("4d6", drop_lowest=1))
-print(roll_die("1d20", advantage=True))
-print(roll_die("1d20", disadvantage=True))
-print(roll_die("1d20", advantage=True, disadvantage=True))
-
-
-# Test cases
-print(roll_die("1d20"))
-print(roll_die("1d20+5"))
-print(roll_die("2d6+3d4"))
-print(roll_die("1d20", repeat_number=3))
-print(roll_die("1d20", reroll_below=10))
-print(roll_die("4d6", drop_lowest=1))
-print(roll_die("1d20", advantage=True))
-print(roll_die("1d20", disadvantage=True))
-print(roll_die("1d20", advantage=True, disadvantage=True))
+if __name__ == "__main__":
+    mcp.run(transport="stdio")
