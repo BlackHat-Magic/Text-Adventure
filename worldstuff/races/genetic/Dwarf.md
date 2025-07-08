@@ -18,11 +18,15 @@ Dwarves are stout and hardy folk, renowned for their skill in craftsmanship, the
 
 ## Subraces
 
-<Add Blurb Here>
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ### Mountain Dwarf
 
-<Add Blurb>
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Ability Score Improvement.*** Your Strength score increases by 1 to a maximum of 20.
 
@@ -30,9 +34,17 @@ Dwarves are stout and hardy folk, renowned for their skill in craftsmanship, the
 
 ### Hill Dwarf
 
+<note>
+Add a descriptive flavor blurb here.
+</note>
+
 ***Dwarven Toughness.*** Your hit point maximum increases by 2, and it increases by 2 every time you gain a level.
 
 ### Cave Dwarf
+
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Ability Score Improvement.*** Your Wisdom score increases by 1 to a maximum of 20.
 

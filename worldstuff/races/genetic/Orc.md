@@ -1,5 +1,9 @@
 # Orc
 
+<note>
+Add a descriptive flavor blurb here.
+</note>
+
 ***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20.
 
 ***Age.*** Orcs mature in their early teens and rarely live longer than 60 years.

@@ -14,13 +14,25 @@ Elves are a graceful and long-lived race, deeply connected to the feywild and re
 
 ## Subraces
 
+<note>
+Add a descriptive flavor blurb here.
+</note>
+
 ### High Elf
+
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Ability Score Increase.*** Your Intelligence score increases by 2 to a maximum of 20.
 
 ***Fey Step.*** As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, after which you can't use it again until you finish a Long Rest.
 
 ### Sea Elf
+
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Ability Score Increase.*** Your Constitution score increases by 2 to a maximum of 20.
 
@@ -29,6 +41,10 @@ Elves are a graceful and long-lived race, deeply connected to the feywild and re
 ***Child of the Sea.*** You have a swimming speed equal to your walking speed, and you can breathe air and water.
 
 ### Wood Elf
+
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Ability Score Increase.*** Your Wisdom score increases by 2 to a maximum of 20.
 

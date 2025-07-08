@@ -1,5 +1,9 @@
 # Minotaur
 
+<note>
+Add a descriptive flavor blurb here.
+</note>
+
 ***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20. Your dexterity score is reduced by 2 to a minimum of 3.
 
 ***Age.*** Minotaurs mature at the same rate as humans and typically live about as long.

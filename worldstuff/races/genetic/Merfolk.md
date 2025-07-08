@@ -22,7 +22,15 @@ Merfolk have humanoid upper bodies, adorned with fins and other anatomy from the
 
 ## Subraces
 
+<note>
+Add a descriptive flavor blurb here.
+</note>
+
 ### Axolotl
+
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Ability Score Increase.*** Your Charisma score increases by 1.
 
@@ -32,6 +40,10 @@ Merfolk have humanoid upper bodies, adorned with fins and other anatomy from the
 
 ### Angler Fish
 
+<note>
+Add a descriptive flavor blurb here.
+</note>
+
 ***Ability Score Increase.*** Your Wisdom score increases by 2 and your Dexterity Score increases by 1, each to a maximum of 20.
 
 ***Bioluminescence.*** As an action on your turn, you can cause parts of your extremities to light up. For one hour, you emit bright light in a 30-foot radius and dim light for an additional 30 feet. As a bonus action until this effect ends, you can cause the light to cease, or reappear. Once you use this feature, you can't do so again until you finish a Short or Long Rest.
@@ -39,6 +51,10 @@ Merfolk have humanoid upper bodies, adorned with fins and other anatomy from the
 ***Deep-Sea Ambusher.*** You have proficiency in the Perception skill. Additionally, you have advantage on attack rolls if you or the target is in dim light or darkness, and you don't have disadvantage on attack rolls against creatures you can't see.
 
 ### Dolphin
+
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Ability Score Increase.*** Your Intelligence score increases by 2 and your Wisdom score increases by 1, each to a maximum of 20.
 
@@ -50,11 +66,19 @@ Merfolk have humanoid upper bodies, adorned with fins and other anatomy from the
 
 ### Lion Fish
 
+<note>
+Add a descriptive flavor blurb here.
+</note>
+
 ***Ability Score Increase.*** Your Dexterity score increases by 2 and your Constitution score increases by 1, each to a maximum of 20.
 
 ***Venomous Spines.*** Your extremities are adorned with sharp, venomous spines that you can use to make unarmed strikes. You are proficient with them. When you hit with them, the strike deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning famage normal for an unarmed strike. Additionally, the target must make a Constitution saving throw or take an additional 1d4 poison damage and be poisoned for 1 minute. The DC is equal to 8 + your proficiency bonus + your Constitution modifier. If the creature fails by 5 or more, it falls unconscious while poisoned in this way. While poisoned in this way, the creature takes 1d4 poison damage at the start of each of its turns. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Pan Shark
+
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Ability Score Increase.*** Your Strength score increasees by 2 and your Constitution score increases by 1, each to a maximum of 20.
 

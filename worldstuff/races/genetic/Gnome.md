@@ -14,13 +14,25 @@ Gnomes are small and cheerful folk, known for their ingenuity, their love of jok
 
 ## Subraces
 
+<note>
+Add a descriptive flavor blurb here.
+</note>
+
 ### Forest Gnome
+
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Natural Illusionist.*** You know the Minor Illusion cantrip. Intelligence is your spellcasting ability for it.
 
 ***Speak with Small Beasts.*** Through sounds and gestures you can communicate simple ideas with small or smaller beasts.
 
 ### Rock Gnome
+
+<note>
+Add a descriptive flavor blurb here.
+</note>
 
 ***Ability Score Improvement.*** Your Constitution score increases by 1 to a amaximum of 20.
 

@@ -13,3 +13,7 @@ Goblins are a small and often cunning race with brightly-colored skin, long poin
 ***Size.*** Goblins typically stand between two and a half and three feet tall and weigh between 20 and 30 pounds. Your size is Small.
 
 ***Speed.*** Your base walking speed is 25 feet.
+
+<note>
+Goblins should be "Goblinoids" and split into three subraces: Goblins, Hobgoblins, and Bugbears.
+</note>

@@ -1,5 +1,9 @@
 # Satyr
 
+<note>
+Add a descriptive flavor blurb here.
+</note>
+
 ***Ability Score Increase.*** Your Charisma and Dexterity scores each increase by 1 to a maximum of 20.
 
 ***Age.*** Satyrs mature at the same rate as humans but typically live about twice as long.
