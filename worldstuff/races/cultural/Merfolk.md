@@ -1,34 +1,21 @@
 # Merfolk
 
-<note>
-Add descriptive flavor blurb here. Humans are the most common race on the material plane, and extremely varied.
-</note>
+> Merfolk are a race of aquatic humanoids, their forms a beautiful and sometimes terrifying fusion of humanoid and marine life. They are a people of the deep, their culture as mysterious and varied as the ocean itself. Though they are as numerous as the fish in the sea, they are rarely seen by surface dwellers, their lives a secret kept by the waves.
 
 ***Languages.*** You can speak, read, and write Common, Merfolk, Elvish, and Elvish Water Sign.
 
-<note>
-Merfolk is a language consisting of a sophisticated sign language and vocalizations similar to dolphin or whale vocalizations utilizing anatomy that most terrestrial races don't have. They use Elvish as their writing system, since they are culturally somewhat close to Sea Elves.
-
-Elvish Water Sign is a sign language used by Sea Elves to communicate underwater. Sea Elves do not have a verbal language that can be used underwater since they lack the anatomy and communicate primarily using Elvish, since they are culturally still close to terrestrial Evles--much more so than Merfolk. For that reason, the signs in Elvish Water Sign are significantly less sophisticated and convey less information than those of Merfolk.
-
-When communicating with surface-dwellers, Merfolk often adopt names that follow Elvish phonological rules, though the names tend to look very different from Elvish names.
-</note>
-
 ## Subraces
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Merfolk society is as diverse as the ocean itself, with each subrace representing a different aspect of the marine world.
 
 ### Deep Court
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> The Deep Court are the rulers of the abyssal plains, their cities built in the crushing darkness of the ocean floor. They are a people of great intellect and power, their knowledge of the deep as vast as the ocean itself. They are often seen as cold and aloof by other merfolk, their minds as alien as the lightless world they call home.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Arion, Coralian, Delphin, Galen, Kaito, Nereus, Orion, Proteus, Triton, Zale
+*   **Female:** Amphitrite, Calypso, Dione, Galatea, Ione, Koralia, Marina, Nerida, Oceana, Thalassa
+*   **Surnames:** Black-Tide, Deep-Water, Iron-Scale, Kraken-Heart, Void-Fin
 
 ***Ability Score Increase.*** Either your Intelligence and Charisma scores each increase by 1 to a maximum of 20, your Intelligence score increases by 2 to a maximum of 20, or your Charisma score increases by 2 to a maximum of 20.
 
@@ -36,44 +23,32 @@ Include some example first names (both male and female) and surnames.
 
 ***Pressure-Adapted.*** You are immune to bludgeoning damage.
 
-<note>
-Flesh out racial features
-</note>
-
 ### Reef Warrior
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> The Reef Warriors are the protectors of the vibrant coral reefs, their bodies a living tapestry of color and life. They are a fierce and territorial people, their lives a constant battle against the predators who would seek to destroy their homes. They are masters of the trident and the net, their skill in combat a match for any who would challenge them.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Finn, Kai, Mako, Pike, Ray, Shark, Tide, Wave
+*   **Female:** Coral, Jewel, Pearl, Ruby, Sapphire, Shelly, Star, Urchin
+*   **Surnames:** Bright-Fin, Coral-Guard, Reef-Stalker, Sharp-Tooth, Wave-Crasher
 
 ***Ability Score Increase.*** Your Strength score increases by 2 to a maximum of 20.
 
 ***Reef Warrior.*** You are proficient with light armor, shields, tridents, spears, and nets.
 
-<note>
-Flesh out racial features
-</note>
+***Tough as Coral.*** When you are not wearing heavy armor, your base Armor Class is 13 + your Dexterity modifier.
 
 ### Open Ocean Nomad
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> The Open Ocean Nomads are the wanderers of the sea, their lives a constant journey across the endless blue. They are a free-spirited and independent people, their culture as fluid as the currents they follow. They are masters of navigation, their knowledge of the sea and its secrets second to none.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Caspian, Drake, Fisher, Harbor, Kai, Lir, Murphy, Storm, Tasman, Wade
+*   **Female:** Aqua, Brooke, Darya, Echo, Isla, Misty, Rain, River, Sandy, Summer
+*   **Surnames:** Blue-Water, Far-Sail, Open-Sea, Storm-Rider, Wave-Walker
 
 ***Ability Score Increase.*** Your Dexterity score increases by 2 to a maximum of 20.
 
 ***Extra Language.*** You can speak, read, and write one extra language of your choice.
 
 ***Keen Navigator.*** You have proficiency in the Survival skill and Navigator's Tools. Additionally, when you make a Wisdom (Survival) check or a check with Navigator's tools to navigate at sea, your proficiency bonus is doubled for that check.
-
-<note>
-Flesh out racial features
-</note>

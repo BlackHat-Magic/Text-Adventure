@@ -1,65 +1,54 @@
 # Lutin
 
-<note>
-Add descriptive flavor blurb here. Lutin don't tend to settle on their own, opting instead to settle amongst humans (or sometimes Dwarves or Elves) for protection.
-</note>
+> Lutins are a race of small, artistic folk, their large eyes and ears a testament to their keen senses and their slender builds a sign of their delicate nature. They are a people of great charm and creativity, their art and music a source of joy and wonder to all who experience it. Lutins do not have their own settlements, instead choosing to live among other races, where their artistic talents and fun-loving nature make them welcome guests.
 
 ***Language.*** You can speak, read, and write Common and one extra language of your choice.
 
-<note>
-Lutins have no language of their own; they typically speak Common.
-</note>
+## Subraces
 
-## Subrace
-
-<note>
-Add a descriptive blurb here
-</note>
+> Lutin society is as varied as the cultures they choose to live in, with each subrace representing a different artistic tradition.
 
 ### Hearthsong Weavers
 
-<note>
-Add a descriptive flavor blurb here. Hearthsong Weavers are Lutins who thrive in human villages and towns, often found in cozy taverns or around family hearths, where they entertain with songs, tales, and poetry. They are masters of oral tradition, preserving human folklore through whimsical ballads and lullabies that charm both children and adults. Their nocturnal nature makes them the perfect late-night companions, spinning stories by firelight when humans are winding down. They are seen as bringers of joy and comfort, often adopting human customs like festivals and holidays, but adding their own playful twists—think tiny fiddles at harvest dances or riddles hidden in baked goods. Their art often focuses on themes of home, kinship, and the simple beauty of daily life, reflecting the human agrarian and communal spirit. Despite their small size, they are fiercely protective of their adopted families, using their keen senses to warn of danger in the night.
+> Hearthsong Weavers are the Lutins who have chosen to live among humans, their songs and stories a cherished part of human culture. They are masters of the oral tradition, their whimsical ballads and lullabies a source of comfort and joy to all who hear them. They are often found in cozy taverns or around family hearths, their music and tales a welcome respite from the hardships of the world.
 
-This subculture emphasizes Lutins’ fun-loving, art-focused identity within the context of human society, where their "cute" appearance and sleepy demeanor endear them as household muses. Their focus on song and storytelling aligns with Lutins’ reputation for exceptional art, tailored to human values of community and tradition.
-</note>
+***Names.***
+*   **Male:** Pip, Fuzz, Nib, Titch, Pogo
+*   **Female:** Poppy, Lily, Rosie, Daisy, Bluebell
+*   **Surnames:** Bumble, Cobble, Crumble, Doodle, Glimmer
 
-<note>
-Include some example first names (both male and female) and surnames. Lutin names are generally seen as "playful."
-</note>
+***Ability Score Increase.*** Your Charisma score increases by 2, and your Wisdom score increases by 1, to a maximum of 20.
 
-<note>
-Add racial features here
-</note>
+***Song of Rest.*** You can sing a song that helps your allies recover from their wounds. When you and any friendly creatures who can hear your song regain hit points at the end of a short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
+
+***Tool Proficiency.*** You have proficiency with one musical instrument of your choice.
 
 ### Moonglow Dreamers
 
-<note>
-Add a descriptive flavor blurb here. Moonglow Dreamers are Lutins who settle among elves, often in woodland glades or near fey crossings, where they contribute to the elven love of beauty through surreal paintings, haunting melodies, and illusory performances. Their art is otherworldly, often inspired by dreams or visions they claim to see in the moonlight, blending Lutin whimsy with elven elegance. They are nocturnal companions to elven night vigils, crafting poems that weave together the rustle of leaves and the whispers of ancient spirits. While elves value their contributions, Lutins add a playful, childlike wonder to elven solemnity—think tiny dancers creating glowing illusions at elven ceremonies. They are also adept at hiding from predators in elven woods, using their large eyes and ears alongside elven magic to stay safe. Their subculture values imagination and mystery, often acting as mediators between the material world and the dreamlike Feywild.
+> Moonglow Dreamers are the Lutins who have chosen to live among the elves, their art and music a reflection of the beauty and magic of the feywild. They are masters of illusion and enchantment, their surreal paintings and haunting melodies a source of wonder and mystery to all who experience them. They are often found in moonlit glades or near fey crossings, their art a bridge between the mortal world and the world of dreams.
 
-This subculture highlights Lutins’ artistic prowess in a way that complements elven culture, focusing on visual and magical art forms (illusions, poetry) that align with elven aesthetics. Their nocturnal habits and "cute" charm make them beloved by elves as little muses of the night, enhancing the Lutins’ survival through protection in elven domains.
-</note>
+***Names.***
+*   **Male:** Faelan, Laelon, Nyx, Orin, Zephyr
+*   **Female:** Aine, Elara, Lyra, Maeve, Sorcha
+*   **Surnames:** Moonpetal, Silverleaf, Starwhisper, Sunshadow, Willowisp
 
-<note>
-Include some example first names (both male and female) and surnames. Lutin names are generally seen as "playful."
-</note>
+***Ability Score Increase.*** Your Charisma score increases by 2, and your Intelligence score increases by 1, to a maximum of 20.
 
-<note>
-Add racial features here
-</note>
+***Cantrip.*** You know the *minor illusion* cantrip. Charisma is your spellcasting ability for it.
+
+***Fey-Touched.*** You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
 
 ### Stonewhisper Bards
 
-<note>
-Add a descriptive flavor blurb here. Stonewhisper Bards are Lutins who live among dwarves in their underground forges and mountain strongholds, where they carve a niche as chroniclers of dwarven history through song and etched art. Their small size allows them to navigate tight tunnels, and their large eyes and ears help them detect dangers in the dark, making them useful lookouts—though dwarves often chuckle at their sleepy, cat-like naps in forge corners. Their art focuses on metalwork-inspired music (think tiny hammers tapping rhythms on anvils) and epic chants of dwarven battles and craftsmanship, blending Lutin playfulness with dwarven stoicism. They often decorate dwarven halls with intricate, miniature carvings or paintings on stone, adding a touch of whimsy to stern surroundings. Nocturnal by nature, they entertain during late-night forging sessions, their soft voices echoing through caverns. Their subculture values resilience and legacy, mirroring dwarven endurance while softening it with Lutin charm.
+> Stonewhisper Bards are the Lutins who have chosen to live among the dwarves, their art and music a reflection of the strength and endurance of the mountains. They are masters of the forge and the chisel, their metalwork-inspired music and epic chants a source of inspiration and pride to all who hear them. They are often found in the heart of the mountain, their songs and stories a testament to the enduring spirit of the dwarven people.
 
-This subculture showcases Lutins’ adaptability to dwarven culture, focusing on art forms (music, carving) that resonate with dwarven craftsmanship and history. Their "cute" and fun-loving nature contrasts with dwarven seriousness, endearing them as little bards who bring levity to underground life, while their nocturnal habits align with late-night dwarven work.
-</note>
+***Names.***
+*   **Male:** Borin, Dwalin, Gloin, Nori, Ori
+*   **Female:** Astrid, Bodil, Dagmar, Ingrid, Sigrid
+*   **Surnames:** Ironhand, Mithril-Heart, Stone-Foot, Thunder-Forge, Deep-Delver
 
-<note>
-Include some example first names (both male and female) and surnames. Lutin names are generally seen as "playful."
-</note>
+***Ability Score Increase.*** Your Charisma score increases by 2, and your Constitution score increases by 1, to a maximum of 20.
 
-<note>
-Add racial features here
-</note>
+***Song of the Forge.*** You can sing a song that inspires your allies. When an ally who can hear your song makes an attack roll or a saving throw, they can add a d4 to the roll. They can do this a number of times equal to your proficiency bonus, and they regain all expended uses when they finish a long rest.
+
+***Tool Proficiency.*** You have proficiency with one type of artisan's tools of your choice.

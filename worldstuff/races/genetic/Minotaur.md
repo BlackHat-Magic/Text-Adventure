@@ -1,8 +1,6 @@
 # Minotaur
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Minotaurs are a race of massive, bull-headed humanoids, their bodies a testament to raw, untamed power. They are a people of great strength and endurance, their spirits as unyielding as the mountains they call home.
 
 ***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20. Your dexterity score is reduced by 2 to a minimum of 3.
 

@@ -1,89 +1,51 @@
 # Goliath
 
-<note>
-Add descriptive flavor blurb here. Goliaths are similar to in the Forgotten Realms; they prioritize meritocracy and survival of the fittest. Their social heirarchies are purely utilitarian and generally only exist to serve a pragmatic purpose.
-</note>
+> Goliaths are a race of titans, their bodies as strong and unyielding as the mountains they call home. They are a people of action, not words, their deeds speaking far louder than any promise or oath. They value strength, courage, and self-reliance, and they have little patience for those who cannot carry their own weight.
 
 ***Languages.*** You can speak, read, and write Common and Giant.
 
-<note>
-Language like so:
+## Subraces
 
-- Phonological Inventory
-    - **Consonants:** /p b t d k g/ /f v θ ð s ʃ h/ /m n ŋ/ /r l/ /j/.
-    - **Vowels:** /i y e ø ɛ a ɔ o u/ (rich vowel system).
-    - **Features:** Pitch accent (high/low tones on vowels), complex vowels for a Nordic feel.
-- Phonotactics
-    - **Syllable Structure:** (C)V(C)(C) – allows final clusters (e.g., “Storm-kin”).
-    - **Rules:** Vowels often carry tone (high/low); consonants can cluster at word ends (e.g., /sk st rn/). No initial clusters.
-    - **Stress:** First syllable, with tonal variation (e.g., STORM-kin with high tone on storm).
-</note>
-
-## Subrace
-
-<note>
-Add a descriptive flavor blurb here
-</note>
+> Goliath society is a meritocracy, where an individual is judged not by their birth, but by their deeds. The subraces represent the different paths a goliath can take to prove their worth.
 
 ### Thørmskarl
 
-<note>
-Name explanation
+> The Thørmskarl, or "Storm Kin," are the goliaths who have chosen to live in the highest peaks of the mountains, where the storms rage and the lightning flashes. They are a people of great strength and endurance, their bodies hardened by the constant struggle against the elements. They see the storm as a test of their worth, and they face it with a courage that borders on recklessness.
 
-- Thørm- (pronounced /θørm/, with /ø/ as in the Norwegian “ø” or roughly “er” in “her” but rounded): Derived from a Giant root thørm meaning “storm” or “thunder,” using /θ/ (as in “think”) for a sharp, strong onset and the rounded vowel /ø/ to reflect the language’s Nordic-inspired richness. This fits the (C)V(C)(C) structure with a final cluster /rm/.
-- -skarl (pronounced /skarl/): Derived from a root skarl meaning “kin” or “band,” reflecting a group or clan, with the final cluster /rl/ fitting Giant’s allowance for complex codas. The /s/ adds a rugged, warrior-like tone common in Nordic names.
-</note>
+***Names.***
+*   **First Names:** Aukan, Eglath, Gae-Al, Gauthak, Ilikan, Keothi, Kuori, Manneo, Maveith, Nalla, Orilo, Paavu, Pethani, Thalai, Thotham, Uthal, Vaunea, Vimak
+*   **Surnames:** Goliaths do not have traditional family names. Instead, they are known by a descriptive surname that changes over time to reflect their deeds and accomplishments. When two goliaths marry, they choose a new surname together, and their old surnames become middle names.
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20.
 
-<note>
-Include some example first names and surnames. Goliaths do not have "male" or "female" names; all names are gender-neutral. Additionally, unlike most other cultures, when Goliaths marry, their previous surname becomes their new middle name (or an additional middle name), and the couple chooses a new surname together. This is in contrast to the way one partner might take the surname of the other in other races' cultures.
-</note>
+***Mountain Born.*** You’re acclimated to high altitude, including elevations above 20,000 feet. You’re also naturally adapted to cold climates.
 
-<note>
-Add racial features here
-</note>
+***Storm's Fury.*** You have resistance to lightning and thunder damage.
 
 ### Ysvaðrøm
 
-<note>
-Name explanation
-- Ys- (pronounced /ys/, with /y/ as in the Swedish “y” or roughly “ee” but rounded): Derived from a Giant root ys meaning “ice” or “frost,” using the rounded vowel /y/ to evoke the cold, northern feel of the language. This fits the (C)V structure.
-- -vað- (pronounced /vað/, with /ð/ as in “this”): Derived from a root vað meaning “wander” or “tread,” reflecting their nomadic nature, fitting the (C)V(C) structure with a softer fricative /ð/ for a flowing yet rugged sound.
-- -røm (pronounced /røm/, with /ø/ as above): A suffix meaning “folk” or “people,” often used in Giant to denote a group, with the rounded vowel /ø/ and final /m/ fitting the (C)V(C) structure.
-</note>
+> The Ysvaðrøm, or "Ice-Wandering Folk," are the goliaths who have chosen to live in the frozen wastes of the north. They are a nomadic people, their lives a constant journey across the endless ice. They are masters of survival, their knowledge of the frozen wastes and their ability to endure the bitter cold making them a force to be reckoned with in the most inhospitable of environments.
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Names.***
+*   **First Names:** Aukan, Eglath, Gae-Al, Gauthak, Ilikan, Keothi, Kuori, Manneo, Maveith, Nalla, Orilo, Paavu, Pethani, Thalai, Thotham, Uthal, Vaunea, Vimak
+*   **Surnames:** Goliaths do not have traditional family names. Instead, they are known by a descriptive surname that changes over time to reflect their deeds and accomplishments. When two goliaths marry, they choose a new surname together, and their old surnames become middle names.
 
-<note>
-Include some example first names and surnames. Goliaths do not have "male" or "female" names; all names are gender-neutral. Additionally, unlike most other cultures, when Goliaths marry, their previous surname becomes their new middle name (or an additional middle name), and the couple chooses a new surname together. This is in contrast to the way one partner might take the surname of the other in other races' cultures.
-</note>
+***Ability Score Increase.*** Your Constitution and Wisdom scores each increase by 1 to a maximum of 20.
 
-<note>
-Add racial features here
-</note>
+***Ice Walker.*** You can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost you extra movement.
+
+***Nomadic Endurance.*** You have proficiency in the Survival skill and resistance to cold damage.
 
 ### Hærkbrønd
 
-<note>
-Name explanation
+> The Hærkbrønd, or "Peak Forgers," are the goliaths who have chosen to live in the fiery heart of the volcanoes. They are a people of great strength and skill, their bodies as hard as the metal they shape. They are masters of the forge, their knowledge of the fire and their ability to shape the very bones of the earth making them the greatest smiths in the world.
 
-- Hærk- (pronounced /hærk/, with /æ/ as in “cat” but slightly more open): Derived from a Giant root hærk meaning “peak” or “high place,” using /æ/ for a grounded, ancient vowel sound and /rk/ as a final cluster, fitting the (C)V(C)(C) structure. The /h/ onset adds a breathy, strong start.
-- -brønd (pronounced /brønd/, with /ø/ as above): Derived from a root brønd meaning “forge” or “burn,” reflecting their smithing culture near volcanoes, with the rounded vowel /ø/ and final cluster /nd/ fitting Giant’s allowance for complex codas.
-</note>
+***Names.***
+*   **First Names:** Aukan, Eglath, Gae-Al, Gauthak, Ilikan, Keothi, Kuori, Manneo, Maveith, Nalla, Orilo, Paavu, Pethani, Thalai, Thotham, Uthal, Vaunea, Vimak
+*   **Surnames:** Goliaths do not have traditional family names. Instead, they are known by a descriptive surname that changes over time to reflect their deeds and accomplishments. When two goliaths marry, they choose a new surname together, and their old surnames become middle names.
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Ability Score Increase.*** Your Strength and Intelligence scores each increase by 1 to a maximum of 20.
 
-<note>
-Include some example first names and surnames. Goliaths do not have "male" or "female" names; all names are gender-neutral. Additionally, unlike most other cultures, when Goliaths marry, their previous surname becomes their new middle name (or an additional middle name), and the couple chooses a new surname together. This is in contrast to the way one partner might take the surname of the other in other races' cultures.
-</note>
+***Peak Forger.*** You have proficiency with smith's tools and resistance to fire damage.
 
-<note>
-Add racial features here
-</note>
+***Volcanic Vigor.*** You have advantage on saving throws against exhaustion.

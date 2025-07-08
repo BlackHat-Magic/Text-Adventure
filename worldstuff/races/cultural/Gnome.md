@@ -1,88 +1,57 @@
 # Gnome
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Gnomes are a race of small, cheerful folk, known for their boundless curiosity and inventive spirit. They see the world as a complex machine, and they delight in taking it apart to see how it works, then putting it back together in new and interesting ways.
 
-***Languages.*** You can speak, red, and write Common and Gnomish.
+***Languages.*** You can speak, read, and write Common and Gnomish.
 
-<note>
-Language like so:
+## Subraces
 
-- Phonological Inventory
-    - **Consanants:** /p b t d k g/ /f s ʃ h/ /m n/ + clicks /ǀ ǃ ǁ ǂ/ (clicks for emphasis or technical terms).
-    - **Vowels:** /a e i o u/ (simple, clear vowels to contrast with complex clicks).
-    - **Features:** Clicks often appear word-initially or as standalone morphemes for technical concepts.
-- Phonotactics
-    - **Syllable Structure:** (C)V(C) or Click-V(C) – clicks can stand alone or pair with vowels.
-    - **Rules:** Non-click consonants rarely cluster; clicks often precede vowels (e.g., “ǃak” for “machine”).
-    - **Stress:** Variable, often on clicks or the first vowel (e.g., ǃAK-lo).
+> Gnomish culture is a reflection of their inquisitive nature, with each subrace representing a different path of discovery.
 
-## Subrace
+### ǃak’tunor
 
-<note>
-Add a descriptive flavor blurb here
-</note>
+> The ǃak’tunor, or "Machine-Weaving Kin," are the most mechanically-minded of the gnomes. They are masters of invention and artifice, their workshops filled with the constant whirring and clicking of their creations. They are predominantly Rock Gnomes, their connection to the earth giving them a unique insight into the properties of metal and stone.
 
-### ǃak’thunor
+***Names.***
+*   **Male:** Alston, Boddynock, Frug, Gerbo, Gimble, Glim, Jebeddo, Namfoodle, Roondar, Zook
+*   **Female:** Bimpnottin, Caramip, Duvamil, Ella, Ellywick, Lilli, Loopmottin, Mardnab, Roywyn, Shamil
+*   **Surnames:** Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Timbers, Turen
 
-<note>
-Name explanation
-- ǃak- (pronounced as a sharp alveolar click followed by /ak/, approximated as “!ak”): Derived from a Gnomish root meaning “machine” or “device,” using the click /ǃ/ to emphasize the technical precision of machinery. Clicks are often word-initial in Gnomish for important concepts, fitting the phonotactic rule of Click-V(C).
-- -’thun- (pronounced /θun/): Derived from a root meaning “weave” or “construct,” reflecting the act of building or assembling intricate mechanisms. The /θ/ sound (as in “think”) is not in the current Gnomish inventory, so I’ll adjust this to /tun/ using /t/, which fits the inventory (/t/ as in “top”). This becomes /tun/, still meaning “weave/construct,” adhering to (C)V(C) structure.
-- -or (pronounced /or/): A suffix meaning “kin” or “people,” common in Gnomish to denote a group or community, fitting the (V)(C) structure.
-</note>
+***Ability Score Increase.*** Your Intelligence score increases by 2 to a maximum of 20.
 
-<note>
-Add a descriptive flavor blurb here. focus on mechanical invention and tinkering, predominantly Rock Gnomes.
-</note>
+***Artificer's Lore.*** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
-
-<note>
-Add racial features here
-</note>
+***Tinker.*** You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time. When you create a device, choose one of the following options:
+*   **Clockwork Toy.** This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises appropriate to the creature it represents.
+*   **Fire Starter.** The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
+*   **Music Box.** When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
 
 ### ǀen’shira
 
-<note>
-Name explanation
-- ǀen- (pronounced as a dental click followed by /en/, approximated as “|en”): Derived from a Gnomish root meaning “nature” or “wild,” using the click /ǀ/ to denote a fundamental concept tied to the natural world. This follows the Click-V(C) structure common in Gnomish.
-- -’shi- (pronounced /ʃi/): Derived from a root meaning “whisper” or “soft voice,” reflecting their skill in illusion and subtle communication with animals. This fits the (C)V structure and uses /ʃ/ (as in “ship”), which is in the Gnomish inventory.
-- -ra (pronounced /ra/): A suffix meaning “folk” or “those who,” often used to indicate a group with a shared practice or trait, fitting the (C)V structure.
-</note>
+> The ǀen’shira, or "Nature-Whispering Folk," are the gnomes who have dedicated their lives to the study of the natural world. They are masters of illusion and animal kinship, their magic as subtle and beautiful as the forest they call home. They are predominantly Forest Gnomes, their connection to the wild giving them a unique bond with the creatures of the earth.
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Names.***
+*   **Male:** Alvyn, Brocc, Eldon, Frug, Kellen, Ku, Orryn, Sinjin, Warryn, Wrenn
+*   **Female:** Breena, Carlin, Donella, Lilli, Lorilla, Nissa, Nyx, Oda, Roswyn, Tana
+*   **Surnames:** Garrick, Nackle, Murnig, Timbers, Turen
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Ability Score Increase.*** Your Wisdom score increases by 2 to a maximum of 20.
 
-<note>
-Add racial features here
-</note>
+***Natural Illusionist.*** You know the *minor illusion* cantrip. Intelligence is your spellcasting ability for it.
+
+***Speak with Small Beasts.*** Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts.
 
 ### ǂom’kalar
 
-<note>
-Name explanation
-- ǂom- (pronounced as a palatal click followed by /om/, approximated as “^om”): Derived from a Gnomish root meaning “knowledge” or “lore,” using the click /ǂ/ to emphasize the importance of this concept, fitting the Click-V(C) structure. Clicks are ideal for significant or technical terms in Gnomish.
-- -’ka- (pronounced /ka/): Derived from a root meaning “keep” or “guard,” reflecting their role as historians and preservers of knowledge. This fits the (C)V structure.
-- -lar (pronounced /lar/): A suffix meaning “group” or “clan,” indicating a collective identity, fitting the (C)V(C) structure.
-</note>
+> The ǂom’kalar, or "Knowledge-Keeping Clan," are the historians and loremasters of the gnomish people. They are the keepers of ancient secrets and the chroniclers of gnomish history, their minds as sharp as the clicks they use to emphasize their words.
 
-<note>
-Add a descriptive flavor blurb here. knowledge-keepers and historians
-</note>
+***Names.***
+*   **Male:** Boddynock, Dimble, Fonkin, Gimble, Glim, Orryn, Roondar, Seebo, Zook
+*   **Female:** Bimpnottin, Breena, Donella, Duvamil, Ellywick, Lilli, Roywyn, Tana
+*   **Surnames:** Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Timbers, Turen
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Ability Score Increase.*** Your Intelligence or Wisdom score increases by 2 to a maximum of 20.
 
-<note>
-Add racial features here
-</note>
+***Gnome Cunning.*** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+
+***Lore Master.*** You gain proficiency in two of the following skills: Arcana, History, Investigation, Nature, or Religion.

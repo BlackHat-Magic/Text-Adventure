@@ -1,8 +1,6 @@
 # Orc
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Orcs are a race of powerful, savage humanoids, their bodies built for war and their spirits forged in the fires of conflict. They are a people of great strength and endurance, their hearts as wild and untamed as the lands they call home.
 
 ***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20.
 

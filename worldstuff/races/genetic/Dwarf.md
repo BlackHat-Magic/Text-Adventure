@@ -1,6 +1,6 @@
 # Dwarf
 
-Dwarves are stout and hardy folk, renowned for their skill in craftsmanship, their resilience, and their love of the earth. They dwell in strongholds deep underground. They are amongst the most common races, being about one-third as numerous as humans.
+> Dwarves are a stout and hardy folk, renowned for their skill in craftsmanship, their resilience, and their love of the earth. They dwell in strongholds deep underground. They are amongst the most common races, being about one-third as numerous as humans.
 
 ***Ability Score Increase.*** Your Constitution score increases by 1 to a maximum of 20.
 
@@ -14,19 +14,15 @@ Dwarves are stout and hardy folk, renowned for their skill in craftsmanship, the
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Sunlight Sensitivity.*** ...
+***Sunlight Sensitivity.*** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 ## Subraces
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> The dwarven bloodline is as strong and enduring as the mountains themselves, with each subrace a testament to the different paths their ancestors walked.
 
 ### Mountain Dwarf
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Mountain dwarves are the strongest and most powerful of the dwarven subraces. They are the descendants of the ancient kings who carved their kingdoms from the heart of the mountains, and they carry the strength of those mountains in their very bones.
 
 ***Ability Score Improvement.*** Your Strength score increases by 1 to a maximum of 20.
 
@@ -34,17 +30,13 @@ Add a descriptive flavor blurb here.
 
 ### Hill Dwarf
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Hill dwarves are the most resilient and enduring of the dwarven subraces. They are the descendants of the ancient farmers and herders who carved their homes from the rolling hills, and they carry the strength of those hills in their very souls.
 
 ***Dwarven Toughness.*** Your hit point maximum increases by 2, and it increases by 2 every time you gain a level.
 
 ### Cave Dwarf
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Cave dwarves are the most mysterious and enigmatic of the dwarven subraces. They are the descendants of the ancient miners and prospectors who delved deep into the earth in search of precious gems and metals, and they carry the secrets of those depths in their very minds.
 
 ***Ability Score Improvement.*** Your Wisdom score increases by 1 to a maximum of 20.
 

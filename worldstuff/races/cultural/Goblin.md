@@ -1,132 +1,69 @@
 # Goblin
 
-<note>
-Add a descriptive flavor blurb here. Due to Maglubiyet's influence, most goblins are violent and generally hostile. The Fraak’volk are a group of goblins that have left Maglubiyet either for atheism (in the literal sense of not practicing religion; obviously still believing in gods since they're a provable fact in-world) or to worship other gods.
-</note>
+> Goblins are a race of small, cunning humanoids, their brightly-colored skin and large noses a common sight in the dark and forgotten corners of the world. Most goblins are bound to the will of their tyrannical god, Maglubiyet, who drives them to violence and cruelty. However, some goblins, known as the Fraak’volk, have broken free from Maglubiyet’s grasp, choosing to live a life of their own, either by rejecting the gods entirely or by finding a new patron to worship.
 
 ***Languages.*** You can speak, read, and write Common and Goblin.
 
-<note>
-Language like so:
+## Subraces
 
-- Phonological Inventory
-    - **Consanants:** /p b t d k g/ /f s z ʃ ʒ x/ /m n ŋ/ /r l/ (heavier than Elvish, guttural influence).
-    - **Vowels:** /a ɛ i o u/ (simple, often short) + dipthongs /ai/, /au/, /oi/ (a small set compared to Elvish’s /ai ei oi au/ or Sylvan’s additional triphthongs. These are chosen for their relative simplicity and commonality in natural languages: /ai/ as in “eye,” /au/ as in “out,” /oi/ as in “boy.” This reflects simplification from Elvish while retaining some vowel complexity).
-    - **Features:** More consonant-heavy than Elvish, with fricatives and gutturals (/x ʃ ʒ/), influenced by Sylvan’s musicality but rougher.
-
-- Phonotactics
-    - **Syllable Structure:** (C)(C)V(V)(C) – now allows diphthongs (V(V)) within a single syllable, though they are less common than single vowels (e.g., “Grai-mak” as /grai.mak/). Initial consonant clusters remain common (e.g., /gr kr sk/).
-    - **Rules:** Diphthongs are typically used in stressed syllables or culturally significant terms (e.g., tribal names, words tied to history or freedom from Maglubiyet). Clusters are still frequent at word start (e.g., /gr kr sk/), and vowels (including diphthongs) rarely appear in sequence beyond a single diphthong. Final consonants are common for a harsh sound.
-    - **Stress:** First syllable, giving a sharp, aggressive tone, even with diphthongs (e.g., GRAI-mak).
-</note>
-
-## Subrace
-
-<note>
-Add a descriptive flavor blurb here
-</note>
+> Goblin society is a chaotic and brutal meritocracy, with the strongest and most cunning rising to the top. The subraces represent the different paths a goblin can take to survive in this harsh world.
 
 ### Grai’mkag
 
-<note>
-Name explanation
+> The Grai’mkag, or "Peak of Stone," are the goblins of the mountains. They are a hardy and warlike people, their bodies as tough as the rock they call home. They are masters of ambush and guerrilla warfare, their knowledge of the mountain passes and their cunning traps making them a formidable foe.
 
-- Grai- (pronounced /grai/, using the diphthong /ai/ as in “eye”): Derived from a root meaning “peak” or “high place,” incorporating /ai/ to add a slight vocalic slide that hints at Elvish ancestry. The initial cluster /gr/ remains for harshness.
-- -’mkag (pronounced /mkag/): Derived from kag meaning “stone,” with an added /m/ for a heavier, guttural sound, fitting Goblin’s consonant-heavy nature. The apostrophe is stylistic, indicating a slight pause or compound structure.
-</note>
+***Names.***
+*   **Male:** Zog, Grol, Klarg, Lhupo, Yegg
+*   **Female:** Gleep, Lhek, Meeko, Squee, Zot
+*   **Surnames:** Rock-Biter, Stone-Tosser, Cave-Crasher, Peak-Prowler, Tunnel-Rat
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Goblin Weapon Training.*** You are proficient with scimitars, shortbows, and nets.
 
-<note>
-Add racial features here
-</note>
+***Mountain Dweller.*** You’re acclimated to high altitude, including elevations above 20,000 feet. You’re also naturally adapted to cold climates.
 
 ### Murk'Zhoil
 
-<note>
-Name explanation
+> The Murk'Zhoil, or "Shadow Hollow," are the goblins of the forest. They are a stealthy and cunning people, their green skin and small stature making them all but invisible in the dense undergrowth. They are masters of the hunt, their poisoned arrows and silent snares the bane of any who would trespass in their territory.
 
-- Murk- (pronounced /murk/): Derived from a root meaning “shadow” or “dark,” unchanged for its harsh, consonant-heavy sound.
-- -’zhoil (pronounced /ʒoil/, using the diphthong /oi/ as in “boy”): Derived from zhol meaning “hollow” or “hide,” with /oi/ added to create a sliding vowel sound, suggesting stealth or a hidden quality with a trace of Elvish influence. The /ʒ/ (as in “measure”) adds a softer, sneaky tone fitting for ambushers.
-</note>
+***Names.***
+*   **Male:** Griz, Snarl, Krib, Zib, Grot
+*   **Female:** Flea, Pip, Snik, Wex, Zib
+*   **Surnames:** Leaf-Runner, Shadow-Skulker, Vine-Creeper, Wood-Wight, Bog-Trotter
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Ability Score Increase.*** Your Dexterity and Wisdom scores each increase by 1 to a maximum of 20.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Goblin Weapon Training.*** You are proficient with scimitars, shortbows, and nets.
 
-<note>
-Add racial features here
-</note>
+***Mask of the Wild.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
 ### Vaun'drak
 
-<note>
-Name explanation
+> The Vaun'drak, or "Wind Runners," are the goblins of the plains. They are a nomadic and free-spirited people, their lives as open and untamed as the grasslands they roam. They are masters of mounted combat, their swift wolves and keen eyesight making them a force to be reckoned with on the open plains.
 
-- Vaun- (pronounced /vaun/, using the diphthong /au/ as in “out”): Derived from a root meaning “wind,” with /au/ adding a breathy, open quality reminiscent of wind moving across plains, echoing Elvish vowel complexity in a simplified form.
-- -'drak (pronounced /drak/): Derived from drak meaning “run” or “chase,” unchanged for its sharp, aggressive tone with the initial cluster /dr/.
-</note>
+***Names.***
+*   **Male:** Durn, Grol, Klarg, Lhupo, Yegg
+*   **Female:** Gleep, Lhek, Meeko, Squee, Zot
+*   **Surnames:** Dust-Kicker, Grass-Stalker, Wind-Chaser, Wolf-Rider, Sun-Scorched
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Ability Score Increase.*** Your Dexterity and Charisma scores each increase by 1 to a maximum of 20.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Goblin Weapon Training.*** You are proficient with scimitars, shortbows, and nets.
 
-<note>
-Add racial features here
-</note>
-
-### Vaun'drak
-
-<note>
-Name explanation
-
-- Vaun- (pronounced /vaun/, using the diphthong /au/ as in “out”): Derived from a root meaning “wind,” with /au/ adding a breathy, open quality reminiscent of wind moving across plains, echoing Elvish vowel complexity in a simplified form.
-- -’drak (pronounced /drak/): Derived from drak meaning “run” or “chase,” unchanged for its sharp, aggressive tone with the initial cluster /dr/.
-</note>
-
-<note>
-Add a descriptive flavor blurb here.
-</note>
-
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
-
-<note>
-Add racial features here
-</note>
+***Born to the Saddle.*** You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you’re not incapacitated.
 
 ### Fraak’volk
 
-<note>
-Name explanation
+> The Fraak’volk, or "Free Folk," are the goblins who have broken free from the tyranny of Maglubiyet. They are a diverse and independent people, their cultures and beliefs as varied as the individuals who make up their ranks. They are often found in the cities and towns of other races, where they live as merchants, artisans, and adventurers.
 
-- Fraak- (pronounced /fraak/): Derived from a root meaning “free,” unchanged as it already has a long vowel sound (/aa/) that fits Goblin’s simpler vowel system without needing a diphthong.
-- -’volk (pronounced /volk/): Derived from volk meaning “folk” or “people,” influenced by contact with other races, unchanged for its harsh, consonant-final sound.
-</note>
+***Names.***
+*   **Male:** Any goblin name, or a name from another culture.
+*   **Female:** Any goblin name, or a name from another culture.
+*   **Surnames:** Often take on the surnames of the culture they live in, or a descriptive name of their own choosing.
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Ability Score Increase.*** Two different ability scores of your choice increase by 1 to a maximum of 20.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Extra Language.*** You can speak, read, and write one extra language of your choice.
 
-<note>
-Add racial features here
-</note>
+***Skill Versatility.*** You gain proficiency in two skills of your choice.

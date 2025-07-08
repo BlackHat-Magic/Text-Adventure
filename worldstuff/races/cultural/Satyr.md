@@ -1,79 +1,54 @@
 # Satyr
 
-<note>
-Add descriptive flavor blurb here.
-</note>
+> Satyrs are a race of fey creatures, their bodies a fusion of humanoid and goat. They are a people of revelry and music, their lives a constant celebration of the beauty and wildness of nature. They are most at home in the Feywild, but some have found their way to the Material Plane, where they live in small, hidden communities, far from the prying eyes of civilization.
 
 ***Language.*** You can speak, read, and write Common and Elvish.
 
-## Subrace
+## Subraces
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Satyr society is as wild and untamed as the fey magic that flows through their veins, with each subrace representing a different aspect of their chaotic and joyful nature.
 
 ### Sylvaen’thir
 
-<note>
-Name explanation
+> The Sylvaen’thir, or "Wild Revel Dancers," are the embodiment of the satyr spirit. They are the musicians, the dancers, and the party animals, their lives a whirlwind of celebration and excess. They are masters of the panpipe and the drum, their music a wild and infectious rhythm that can charm even the most stoic of creatures.
 
-- Syl- (pronounced /syl/): Derived from syl, meaning “forest” or “wild,” reflecting the natural, untamed environments where Satyrs often dwell, fitting the (C)V(C) structure.
-- -vaen- (pronounced /vaen/, with diphthong /ae/ approximated as /a/ gliding to /e/): Derived from vaen, meaning “joy” or “revel,” capturing the Satyrs’ love of celebration and hedonism, fitting the (C)V(V)(C) structure.
-- -’thir (pronounced /θir/): Derived from thir, meaning “dance” or “movement,” with the apostrophe as a stylistic marker of a compound structure, fitting the (C)V(C) structure.
-</note>
+***Names.***
+*   **Male:** Arion, Bromios, Pan, Silenus, Tytiros
+*   **Female:** Ampelos, Echo, Lene, Maenad, Syrinx
+*   **Surnames:** Bright-Hoof, Cloven-Stomp, Vine-Dancer, Wild-Heart, Wine-Drinker
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Ability Score Increase.*** Your Charisma score increases by 2 to a maximum of 20.
 
-<note>
-Include some examples of first names (both male and female) and surnames.
-</note>
+***Magic Resistance.*** You have advantage on saving throws against spells and other magical effects.
 
-<note>
-Add racial features here
-</note>
+***Reveler.*** You have proficiency in the Performance skill and with one musical instrument of your choice.
 
 ### Aeloʊi’mar
 
-<note>
-Name explanation
+> The Aeloʊi’mar, or "Moonlit Trickster Kin," are the satyrs who have embraced the more mischievous and chaotic aspects of their fey nature. They are masters of illusion and trickery, their pranks and jests a source of endless amusement to themselves and endless frustration to their victims. They are most at home in the twilight hours, their laughter echoing through the moonlit forests.
 
-- Ael- (pronounced /ael/, with diphthong /ae/ approximated as /a/ gliding to /e/): Derived from ael, meaning “high” or “noble,” often tied to mystical or lunar imagery in Elvish, fitting the (C)V(V)(C) structure.
-- -oʊi- (pronounced /oʊi/, with triphthong /oʊi/ as in “oh-oo-ee” compressed into one syllable): Derived from a root oui, meaning “glow” or “shine,” specifically evoking moonlight, fitting the (V)(V)(V) structure for triphthongs in significant positions.
-- -’mar (pronounced /mar/): Derived from mar, meaning “kin” or “folk,” with the apostrophe as a stylistic compound marker, fitting the (C)V(C) structure.
-</note>
+***Names.***
+*   **Male:** Puck, Trick, Whimsy, Glimmer, Jape
+*   **Female:** Pixie, Trixie, Sprite, Nettle, Bramble
+*   **Surnames:** Glimmer-Hide, Moon-Dancer, Shadow-Leaper, Thorn-Hollow, Whisper-Wind
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Ability Score Increase.*** Your Dexterity and Charisma scores each increase by 1 to a maximum of 20.
 
-<note>
-Include some examples of first names (both male and female) and surnames.
-</note>
+***Fey Cunning.*** You have advantage on saving throws against being charmed, and you can’t be put to sleep by magic.
 
-<note>
-Add racial features here
-</note>
+***Trickster's Magic.*** You know the *minor illusion* cantrip. When you reach 3rd level, you can cast the *invisibility* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Fain’tharel
 
-<note>
-Name explanation
+> The Fain’tharel, or "Vinebound Harmony Seekers," are the satyrs who have chosen to live in harmony with the natural world. They are the tenders of the wild gardens, their lives a peaceful and contemplative existence. They are masters of herbalism and potion-making, their knowledge of the healing properties of plants second to none.
 
-- Fain- (pronounced /fain/, with diphthong /ai/ as in “eye”): Derived from fain, meaning “vine” or “growth,” reflecting a deep connection to nature’s bounty, fitting the (C)V(V)(C) structure.
-- -’thar- (pronounced /θar/): Derived from thar, meaning “gathering” or “court,” often used for communal or harmonious groups in Elvish, fitting the (C)V(C) structure.
-- -el (pronounced /el/): A suffix meaning “seekers” or “those who strive,” common in Elvish to denote purpose, fitting the (V)(C) structure.
-</note>
+***Names.***
+*   **Male:** Aspen, Briar, Forrest, Hawthorne, Rowan
+*   **Female:** Clover, Hazel, Holly, Ivy, Willow
+*   **Surnames:** Green-Man, Root-Walker, Sun-Dappled, Vine-Tender, Wood-Wise
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+***Ability Score Increase.*** Your Wisdom and Charisma scores each increase by 1 to a maximum of 20.
 
-<note>
-Include some examples of first names (both male and female) and surnames.
-</note>
+***Herbalist.*** You have proficiency with the herbalism kit.
 
-<note>
-Add racial features here
-</note>
+***Nature's Blessing.*** You know the *druidcraft* cantrip. When you reach 3rd level, you can cast the *goodberry* spell once with this trait and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for these spells.

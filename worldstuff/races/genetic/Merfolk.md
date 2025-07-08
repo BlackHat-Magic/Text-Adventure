@@ -1,8 +1,8 @@
 # Merfolk
 
-Dwelling primarily beneath the waves, merfolk are an ancient and diverse people with various aquatic adaptations. Though numerous, they are rarely interact with surface dwellers.
+> Dwelling primarily beneath the waves, merfolk are an ancient and diverse people with various aquatic adaptations. Though numerous, they are rarely interact with surface dwellers.
 
-Merfolk have humanoid upper bodies, adorned with fins and other anatomy from their aquatic lineage, and fish-like lower bodies.
+> Merfolk have humanoid upper bodies, adorned with fins and other anatomy from their aquatic lineage, and fish-like lower bodies.
 
 ***Ability Score Increase.*** Your Constitution score increases by 1 to a maximum of 20.
 
@@ -22,15 +22,11 @@ Merfolk have humanoid upper bodies, adorned with fins and other anatomy from the
 
 ## Subraces
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> The merfolk bloodline is as deep and mysterious as the ocean itself, with each subrace a testament to the different paths their ancestors took in their journey through the endless blue.
 
 ### Axolotl
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Axolotl merfolk are the most resilient and adaptable of the merfolk subraces. They are the descendants of the ancient merfolk who first learned to walk on land, and they carry the regenerative power of their ancestors in their very blood.
 
 ***Ability Score Increase.*** Your Charisma score increases by 1.
 
@@ -40,9 +36,7 @@ Add a descriptive flavor blurb here.
 
 ### Angler Fish
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Angler fish merfolk are the most mysterious and enigmatic of the merfolk subraces. They are the descendants of the ancient merfolk who first delved into the darkest depths of the ocean, and they carry the secrets of the abyss in their very souls.
 
 ***Ability Score Increase.*** Your Wisdom score increases by 2 and your Dexterity Score increases by 1, each to a maximum of 20.
 
@@ -52,9 +46,7 @@ Add a descriptive flavor blurb here.
 
 ### Dolphin
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Dolphin merfolk are the most intelligent and social of the merfolk subraces. They are the descendants of the ancient merfolk who first learned to speak with the creatures of the sea, and they carry the wisdom of the ocean in their very minds.
 
 ***Ability Score Increase.*** Your Intelligence score increases by 2 and your Wisdom score increases by 1, each to a maximum of 20.
 
@@ -66,9 +58,7 @@ Add a descriptive flavor blurb here.
 
 ### Lion Fish
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Lion fish merfolk are the most beautiful and deadly of the merfolk subraces. They are the descendants of the ancient merfolk who first learned to harness the power of venom, and they carry the poison of the sea in their very veins.
 
 ***Ability Score Increase.*** Your Dexterity score increases by 2 and your Constitution score increases by 1, each to a maximum of 20.
 
@@ -76,9 +66,7 @@ Add a descriptive flavor blurb here.
 
 ### Pan Shark
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Pan shark merfolk are the most ferocious and predatory of the merfolk subraces. They are the descendants of the ancient merfolk who first learned to hunt the great beasts of the sea, and they carry the hunger of the ocean in their very souls.
 
 ***Ability Score Increase.*** Your Strength score increasees by 2 and your Constitution score increases by 1, each to a maximum of 20.
 
