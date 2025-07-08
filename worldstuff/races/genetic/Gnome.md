@@ -37,5 +37,3 @@ Add a descriptive flavor blurb here.
 ***Ability Score Improvement.*** Your Constitution score increases by 1 to a amaximum of 20.
 
 ***Stone Camouflage.*** If you would make a Dexterity (Stealth) check to hide amongst rocky or stony terrain, your proficiency bonus is doubled if it applies to that check if it is not already doubled (such as from expertise).
-
-### ...
