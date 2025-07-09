@@ -13,9 +13,9 @@
 > The Rivertrade Folk are the lifeblood of the world, their boats and barges carrying goods and news along the great rivers that connect the cities and towns of the land. They are a people of endless adaptability and easy charm, their lives a constant flow of new faces and new opportunities.
 
 ***Names.***
-*   **Male:** Anson, Cade, Finn, Garrett, Landon, Merrick, Rhys, Stellan, Torin, Zane
-*   **Female:** Adeline, Brynn, Cora, Elara, Genevieve, Isla, Maeve, Nora, Roslyn, Thea
-*   **Surnames:** Blackwood, Clay, Fletcher, Ford, Gray, Hill, Marsh, Rivers, Stone, Thatcher
+*   **Male:** Kael, Rhys, Soren, Finnian, Alden, Rowan, Asher, Liam, Ethan, Caleb
+*   **Female:** Lyra, Elara, Seraphina, Isla, Maeve, Cora, Willow, Aurora, Luna, Freya
+*   **Surnames:** Rivers, Thorne, Stone, Blackwood, Marsh, Ford, Grey, Fields, Brooks, Shaw
 
 ***Ability Score Increase.*** Your Charisma score increases by 2 to a maximum of 20.
 
@@ -28,9 +28,9 @@
 > The Hearthbound Clans are the heart of the world, their farms and villages the foundation upon which the great cities are built. They are a people of deep roots and strong traditions, their lives a cycle of planting and harvest, of community and kinship.
 
 ***Names.***
-*   **Male:** Alden, Bram, Cole, Edmund, Gideon, Jasper, Owen, Silas, Tobin, Warren
-*   **Female:** Aveline, Beatrice, Clara, Edith, Hazel, Mabel, Olive, Penelope, Tabitha, Winifred
-*   **Surnames:** Applebottom, Farmer, Greenhand, Hayfield, Miller, Oakhurst, Thatcher, Wheatley
+*   **Male:** Silas, Owen, Jasper, Alden, Bram, Cole, Edmund, Gideon, Tobin, Warren
+*   **Female:** Hazel, Olive, Clara, Aveline, Beatrice, Edith, Mabel, Penelope, Tabitha, Winifred
+*   **Surnames:** Miller, Farmer, Oakhurst, Wheatley, Applebottom, Greenhand, Hayfield, Thatcher, Croft, Meadowsweet
 
 ***Ability Score Increase.*** Your Wisdom score increases by 2 to a maximum of 20.
 
@@ -43,9 +43,9 @@
 > The Ironstep Legion is the fist of the world, their legions and fortresses a bulwark against the darkness that threatens to consume it. They are a people of iron discipline and unwavering courage, their lives a constant drill of training and battle.
 
 ***Names.***
-*   **Male:** Antonius, Cassius, Decimus, Flavius, Gaius, Julius, Lucius, Marcus, Octavius, Titus
-*   **Female:** Aelia, Antonia, Claudia, Flavia, Julia, Livia, Marcia, Octavia, Porcia, Valeria
-*   **Surnames:** Aquila, Corvus, Falco, Gallus, Lupus, Maximus, Rufus, Valerius
+*   **Male:** Valerius, Maximus, Cassian, Lucius, Marcus, Antonius, Decimus, Flavius, Gaius, Julius
+*   **Female:** Valeria, Marcia, Livia, Aelia, Antonia, Claudia, Flavia, Julia, Octavia, Porcia
+*   **Surnames:** Aquila, Corvus, Falco, Gallus, Lupus, Maximus, Rufus, Valerius, Ferrum, Scipio
 
 ***Ability Score Increase.*** Your Strength score increases by 2 to a maximum of 20.
 
@@ -56,9 +56,9 @@
 > The Starwoven Seers are the soul of the world, their prophecies and visions a guiding light in the darkness. They are a mystical and nomadic people, their lives a constant journey of discovery, their eyes always turned to the heavens.
 
 ***Names.***
-*   **Male:** Alaric, Caspian, Draco, Orion, Phoenix, Sterling, Theron, Zephyr
-*   **Female:** Amara, Lyra, Nova, Ophelia, Seraphina, Skye, Vespera, Zephyra
-*   **Surnames:** Star-Gazer, Moon-Whisper, Sun-Strider, Cloud-Dancer, Sky-Reader
+*   **Male:** Orion, Caspian, Alaric, Draco, Phoenix, Sterling, Theron, Zephyr, Altair, Sirius
+*   **Female:** Lyra, Nova, Amara, Ophelia, Seraphina, Skye, Vespera, Zephyra, Astra, Celeste
+*   **Surnames:** Stargazer, Moonwhisper, Sunstrider, Clouddancer, Skyreader, Dreamweaver, Nightsinger, Starcaller, Cometchaser, Oracleborn
 
 ***Ability Score Increase.*** Your Intelligence score increases by 2 to a maximum of 20.
 

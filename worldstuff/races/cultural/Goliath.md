@@ -13,8 +13,8 @@
 > The Thørmskarl, or "Storm Kin," are the goliaths who have chosen to live in the highest peaks of the mountains, where the storms rage and the lightning flashes. They are a people of great strength and endurance, their bodies hardened by the constant struggle against the elements. They see the storm as a test of their worth, and they face it with a courage that borders on recklessness.
 
 ***Names.***
-*   **First Names:** Aukan, Eglath, Gae-Al, Gauthak, Ilikan, Keothi, Kuori, Manneo, Maveith, Nalla, Orilo, Paavu, Pethani, Thalai, Thotham, Uthal, Vaunea, Vimak
-*   **Surnames:** Goliaths do not have traditional family names. Instead, they are known by a descriptive surname that changes over time to reflect their deeds and accomplishments. When two goliaths marry, they choose a new surname together, and their old surnames become middle names.
+*   **First Names:** Thørmskarl, Ysvaðrøm, Hærkbrønd, Skarlthørm, Vaðrømys, Brøndhærk, Thørmrøm, Ysskarl, Hærkvað, Skarlbrønd
+*   **Surnames:** Thørm-skarl, Ys-vaðrøm, Hærk-brønd, Skarl-thørm, Vað-rømys, Brønd-hærk, Thørm-røm, Ys-skarl, Hærk-vað, Skarl-brønd
 
 ***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20.
 
@@ -27,8 +27,8 @@
 > The Ysvaðrøm, or "Ice-Wandering Folk," are the goliaths who have chosen to live in the frozen wastes of the north. They are a nomadic people, their lives a constant journey across the endless ice. They are masters of survival, their knowledge of the frozen wastes and their ability to endure the bitter cold making them a force to be reckoned with in the most inhospitable of environments.
 
 ***Names.***
-*   **First Names:** Aukan, Eglath, Gae-Al, Gauthak, Ilikan, Keothi, Kuori, Manneo, Maveith, Nalla, Orilo, Paavu, Pethani, Thalai, Thotham, Uthal, Vaunea, Vimak
-*   **Surnames:** Goliaths do not have traditional family names. Instead, they are known by a descriptive surname that changes over time to reflect their deeds and accomplishments. When two goliaths marry, they choose a new surname together, and their old surnames become middle names.
+*   **First Names:** Ysvaðrøm, Thørmskarl, Hærkbrønd, Vaðrømys, Skarlthørm, Brøndhærk, Ysrøm, Vaðskarl, Hærkbrønd, Thørmvað
+*   **Surnames:** Ys-vaðrøm, Thørm-skarl, Hærk-brønd, Vað-rømys, Skarl-thørm, Brønd-hærk, Ys-røm, Vað-skarl, Hærk-brønd, Thørm-vað
 
 ***Ability Score Increase.*** Your Constitution and Wisdom scores each increase by 1 to a maximum of 20.
 
@@ -41,8 +41,8 @@
 > The Hærkbrønd, or "Peak Forgers," are the goliaths who have chosen to live in the fiery heart of the volcanoes. They are a people of great strength and skill, their bodies as hard as the metal they shape. They are masters of the forge, their knowledge of the fire and their ability to shape the very bones of the earth making them the greatest smiths in the world.
 
 ***Names.***
-*   **First Names:** Aukan, Eglath, Gae-Al, Gauthak, Ilikan, Keothi, Kuori, Manneo, Maveith, Nalla, Orilo, Paavu, Pethani, Thalai, Thotham, Uthal, Vaunea, Vimak
-*   **Surnames:** Goliaths do not have traditional family names. Instead, they are known by a descriptive surname that changes over time to reflect their deeds and accomplishments. When two goliaths marry, they choose a new surname together, and their old surnames become middle names.
+*   **First Names:** Hærkbrønd, Thørmskarl, Ysvaðrøm, Brøndhærk, Skarlthørm, Vaðrømys, Hærkrøm, Brøndskarl, Thørmbrønd, Yshærk
+*   **Surnames:** Hærk-brønd, Thørm-skarl, Ys-vaðrøm, Brønd-hærk, Skarl-thørm, Vað-rømys, Hærk-røm, Brønd-skarl, Thørm-brønd, Ys-hærk
 
 ***Ability Score Increase.*** Your Strength and Intelligence scores each increase by 1 to a maximum of 20.
 

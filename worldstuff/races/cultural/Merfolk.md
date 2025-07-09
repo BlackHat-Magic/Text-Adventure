@@ -13,9 +13,9 @@
 > The Deep Court are the rulers of the abyssal plains, their cities built in the crushing darkness of the ocean floor. They are a people of great intellect and power, their knowledge of the deep as vast as the ocean itself. They are often seen as cold and aloof by other merfolk, their minds as alien as the lightless world they call home.
 
 ***Names.***
-*   **Male:** Arion, Coralian, Delphin, Galen, Kaito, Nereus, Orion, Proteus, Triton, Zale
-*   **Female:** Amphitrite, Calypso, Dione, Galatea, Ione, Koralia, Marina, Nerida, Oceana, Thalassa
-*   **Surnames:** Black-Tide, Deep-Water, Iron-Scale, Kraken-Heart, Void-Fin
+*   **Male:** Aelmar, Thaɪen’oʊi, Mar’thil, Ael’oʊi, Thil’mar, Sylvaen, Vaenthir, Aelthaen, Tharen, Maroʊithil
+*   **Female:** Aelmara, Thaɪen’oʊia, Mar’thila, Ael’oʊia, Thil’mara, Sylvaena, Vaenthira, Aelthaena, Tharena, Maroʊithila
+*   **Surnames:** Ael’mar, Thaɪen’oʊi, Mar’thil, Ael’oʊi, Thil’mar, Sylvaen, Vaenthir, Aelthaen, Tharen, Maroʊithil
 
 ***Ability Score Increase.*** Either your Intelligence and Charisma scores each increase by 1 to a maximum of 20, your Intelligence score increases by 2 to a maximum of 20, or your Charisma score increases by 2 to a maximum of 20.
 
@@ -28,9 +28,9 @@
 > The Reef Warriors are the protectors of the vibrant coral reefs, their bodies a living tapestry of color and life. They are a fierce and territorial people, their lives a constant battle against the predators who would seek to destroy their homes. They are masters of the trident and the net, their skill in combat a match for any who would challenge them.
 
 ***Names.***
-*   **Male:** Finn, Kai, Mako, Pike, Ray, Shark, Tide, Wave
-*   **Female:** Coral, Jewel, Pearl, Ruby, Sapphire, Shelly, Star, Urchin
-*   **Surnames:** Bright-Fin, Coral-Guard, Reef-Stalker, Sharp-Tooth, Wave-Crasher
+*   **Male:** Sylvaen, Vaenthir, Thilfain, Aelthar, Maroʊi, Aelthaen, Tharen, Maroʊithil, Sylfain, Aelvaen
+*   **Female:** Sylvaena, Vaenthira, Thilfaina, Aelthara, Maroʊia, Aelthaena, Tharena, Maroʊithila, Sylfaina, Aelvaena
+*   **Surnames:** Syl’vaen, Vaen’thir, Thil’fain, Ael’thar, Mar’oʊi, Ael’thaɪen, Thaɪen’thar, Mar’oʊi’thil, Syl’fain, Ael’vaen
 
 ***Ability Score Increase.*** Your Strength score increases by 2 to a maximum of 20.
 
@@ -43,9 +43,9 @@
 > The Open Ocean Nomads are the wanderers of the sea, their lives a constant journey across the endless blue. They are a free-spirited and independent people, their culture as fluid as the currents they follow. They are masters of navigation, their knowledge of the sea and its secrets second to none.
 
 ***Names.***
-*   **Male:** Caspian, Drake, Fisher, Harbor, Kai, Lir, Murphy, Storm, Tasman, Wade
-*   **Female:** Aqua, Brooke, Darya, Echo, Isla, Misty, Rain, River, Sandy, Summer
-*   **Surnames:** Blue-Water, Far-Sail, Open-Sea, Storm-Rider, Wave-Walker
+*   **Male:** Maroʊi, Thilfain, Aelthar, Sylvaen, Vaenthir, Aelthaen, Tharen, Maroʊithil, Sylfain, Aelvaen
+*   **Female:** Maroʊia, Thilfaina, Aelthara, Sylvaena, Vaenthira, Aelthaena, Tharena, Maroʊithila, Sylfaina, Aelvaena
+*   **Surnames:** Mar’oʊi, Thil’fain, Ael’thar, Syl’vaen, Vaen’thir, Ael’thaɪen, Thaɪen’thar, Mar’oʊi’thil, Syl’fain, Ael’vaen
 
 ***Ability Score Increase.*** Your Dexterity score increases by 2 to a maximum of 20.
 

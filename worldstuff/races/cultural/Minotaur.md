@@ -13,9 +13,9 @@
 > The Brak’dorun, or "Blood-Horn Kin," are the most numerous and feared of the minotaurs. They are the chosen of the warlike god, their lives a bloody crusade of raiding and pillaging. They are a force of nature, their thundering hooves and gore-stained horns a symbol of the brutal and unforgiving world they inhabit.
 
 ***Names.***
-*   **Male:** Asterion, Gorgos, Moloch, Tarvos, Thyestes
-*   **Female:** Ariadne, Europa, Minosse, Pasiphae, Phaedra
-*   **Surnames:** Blood-Horn, Gore-Tusk, Iron-Hoof, Skull-Crusher, War-Bull
+*   **Male:** Brakdor, Ferok, Gormal, Talun, Dorok, Brakun, Ferun, Gormun, Talok, Dorok
+*   **Female:** Brakdora, Feroka, Gormala, Taluna, Doroka, Brakuna, Feruna, Gormuna, Taloka, Doroka
+*   **Surnames:** Brak-dor, Fer-ok, Gor-mal, Tal-un, Dor-ok, Brak-un, Fer-un, Gor-mun, Tal-ok, Dor-ok
 
 ***Ability Score Increase.*** Your Strength score increases by 2 to a maximum of 20.
 
@@ -28,9 +28,9 @@
 > The Fer'talok, or "Iron-Maze Guardians," are the protectors of the ancient labyrinths, their lives dedicated to the preservation of the old ways. They are a people of honor and tradition, their minds as sharp and complex as the mazes they guard. They value strength not for its own sake, but as a tool to protect the weak and uphold justice.
 
 ***Names.***
-*   **Male:** Daedalus, Icarus, Lycurgus, Minos, Rhadamanthus
-*   **Female:** Acalle, Catreus, Deucalion, Glaucus, Xenodice
-*   **Surnames:** Bronze-Hide, Iron-Will, Maze-Runner, Stone-Guardian, True-Horn
+*   **Male:** Fertal, Talok, Ferun, Talun, Ferok, Talok, Ferun, Talun, Ferok, Talok
+*   **Female:** Fertala, Taloka, Feruna, Taluna, Feroka, Taloka, Feruna, Taluna, Feroka, Taloka
+*   **Surnames:** Fer-tal, Tal-ok, Fer-un, Tal-un, Fer-ok, Tal-ok, Fer-un, Tal-un, Fer-ok, Tal-ok
 
 ***Ability Score Increase.*** Your Intelligence and Wisdom scores each increase by 1 to a maximum of 20.
 
@@ -43,9 +43,9 @@
 > The Gor’malun, or "Stone-Hoof Kin," are the most peaceful of the minotaurs. They are a nomadic people, their lives a constant journey in search of trade and new horizons. They have rejected the violent ways of their god, choosing instead to live in harmony with the land and its people. They are a rare sight in the world, their gentle nature a stark contrast to the brutal reputation of their race.
 
 ***Names.***
-*   **Male:** Ferdinand, Norman, Pabel, Tauro, Valiente
-*   **Female:** Daisy, Ermintrude, Guadalupe, Marigold, Petunia
-*   **Surnames:** Earth-Shaker, Gentle-Hoof, Green-Field, Stone-Strider, Sun-Gazer
+*   **Male:** Gormal, Malun, Gorun, Malor, Gorok, Malun, Gorun, Malor, Gorok, Malun
+*   **Female:** Gormala, Maluna, Goruna, Malora, Goroka, Maluna, Goruna, Malora, Goroka, Maluna
+*   **Surnames:** Gor-mal, Mal-un, Gor-un, Mal-or, Gor-ok, Mal-un, Gor-un, Mal-or, Gor-ok, Mal-un
 
 ***Ability Score Increase.*** Your Constitution and Charisma scores each increase by 1 to a maximum of 20.
 

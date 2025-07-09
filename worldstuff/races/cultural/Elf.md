@@ -13,9 +13,9 @@
 > The Aelthaɪen’thar, or "High Court," are the most magically inclined of the elves, and they know it. They are often seen as arrogant and aloof by other races, but their mastery of the arcane is undeniable. They dwell in magnificent cities of crystal and light, where they dedicate their long lives to the study of magic and the pursuit of perfection.
 
 ***Names.***
-*   **Male:** Aramil, Aust, Elthen, Heian, Immeral, Laethan, Mindartis, Paelias, Quarion, Riardon
-*   **Female:** Althaea, Anastrianna, Andraste, Bethrynna, Caelynn, Jelenneth, Leshanna, Naivara, Sariel, Valanthe
-*   **Surnames:** Amastacia, Amakiir, Galanodel, Ilphelkiir, Liadon, Meliamne, Siannodel, Xiloscient
+*   **Male:** Aelthaen, Tharen, Sylvaen, Maroʊi, Thilfain, Aelthar, Vaenthir, Maroʊithil, Sylfain, Aelvaen
+*   **Female:** Aelthara, Thaena, Sylvaena, Maroʊia, Thilfaina, Aelthira, Vaenthira, Maroʊithila, Sylfaina, Aelvaena
+*   **Surnames:** Aelthaɪen, Thaɪen’thar, Sylvaen, Maroʊi, Thilfain, Ael’thar, Vaenthir, Maroʊi’thil, Sylfain, Aelvaen
 
 ***Ability Score Increase.*** Either your Intelligence score and Charisma scores each increase by 1 to a maximum of 20, your Intelligence score increases by 2 to a maximum of 20, or your Charisma score increases by 2 to a maximum of 20.
 
@@ -28,9 +28,9 @@
 > The Sylvandrel, or "Forest Kin," are the guardians of the wild places. They are masters of the bow and the blade, their senses as sharp as the arrows they nock. They live in harmony with nature, their homes woven into the very fabric of the forest.
 
 ***Names.***
-*   **Male:** Adran, Aelar, Beiro, Carric, Erdan, Galinndan, Hadarai, Laucian, Rhogar, Viridis
-*   **Female:** Adrie, Birel, Chaedi, Dara, Enna, Faral, Lia, Valna, Xanaphia
-*   **Surnames:** Amastacia, Galanodel, Ilphelkiir, Liadon, Meliamne, Siannodel, Xiloscient
+*   **Male:** Sylvaen, Vaenthir, Thilfain, Aelthar, Maroʊi, Aelthaen, Tharen, Maroʊithil, Sylfain, Aelvaen
+*   **Female:** Sylvaena, Vaenthira, Thilfaina, Aelthara, Maroʊia, Aelthaena, Tharena, Maroʊithila, Sylfaina, Aelvaena
+*   **Surnames:** Sylvaen, Vaen’thir, Thilfain, Ael’thar, Maroʊi, Aelthaɪen, Thaɪen’thar, Maroʊi’thil, Sylfain, Aelvaen
 
 ***Ability Score Increase.*** Either your Dexterity and Constitution scores each increse by 1 to a maximum of 20, your Dexterity score increases by 2 to a maximum of 20, or your Charisma score increases by 2 to a maximum of 20.
 
@@ -45,9 +45,9 @@
 > The Maroʊi’thil, or "Sea Folk," are the children of the ocean. They are a nomadic people, their lives as fluid as the currents they follow. They are skilled sailors and navigators, their knowledge of the sea second to none.
 
 ***Names.***
-*   **Male:** Aithan, Elara, Faelar, Ilanis, Laerel, Nael, Rael, Sael, Taran, Varis
-*   **Female:** Aelin, Elessa, Fiana, Illyra, Lyra, Maela, Naela, Rina, Saria, Valia
-*   **Surnames:** Amastacia, Galanodel, Ilphelkiir, Liadon, Meliamne, Siannodel, Xiloscient
+*   **Male:** Maroʊi, Thilfain, Aelthar, Sylvaen, Vaenthir, Aelthaen, Tharen, Maroʊithil, Sylfain, Aelvaen
+*   **Female:** Maroʊia, Thilfaina, Aelthara, Sylvaena, Vaenthira, Aelthaena, Tharena, Maroʊithila, Sylfaina, Aelvaena
+*   **Surnames:** Maroʊi, Thil’fain, Ael’thar, Sylvaen, Vaen’thir, Aelthaɪen, Thaɪen’thar, Maroʊi’thil, Sylfain, Aelvaen
 
 ***Ability Score Increase.*** Either your Strength and Constitution scores each increase by 1 to a maximum of 20, your Strength score increases by 2 to a maximum of 20, or your Constitution score increases by 2 to a maximum of 20.
 

@@ -13,9 +13,9 @@
 > The Gark’xaruk, or "Iron-Fang Horde," are the most numerous and feared of the orcs. They are the chosen of the warlike god, their lives a bloody crusade of raiding and pillaging. They are a force of nature, their thundering war cries and blood-stained axes a symbol of the brutal and unforgiving world they inhabit.
 
 ***Names.***
-*   **Male:** Azog, Bolg, Grishnakh, Lugdush, Mauhur, Shagrat, Snaga, Ugluk
-*   **Female:** Baggi, Dragha, Ghorza, Grazob, Ugor, Yazgash
-*   **Surnames:** Bone-Breaker, Death-Dealer, Eye-Gouger, Flesh-Ripper, Skull-Splitter
+*   **Male:** Garkxar, Kruxbal, Drakzum, Garkuk, Xaram, Balak, Zumuk, Garkam, Kruxak, Drakbal
+*   **Female:** Garkxara, Kruxbala, Drakzuma, Garkuka, Xarama, Balaka, Zumuka, Garkama, Kruxaka, Drakbala
+*   **Surnames:** Gark’xar, Krux’bal, Drak’zum, Gark’uk, Xar’am, Bal’ak, Zum’uk, Gark’am, Krux’ak, Drak’bal
 
 ***Ability Score Increase.*** Your Strength score increases by 2 to a maximum of 20.
 
@@ -28,9 +28,9 @@
 > The Krux’balam, or "Ash-Ridge Kin," are the orcs who have chosen to live in the harsh and unforgiving mountains. They are a people of great endurance and shamanic tradition, their bodies hardened by the constant struggle against the elements. They see the mountain as a test of their worth, and they face it with a courage that borders on recklessness.
 
 ***Names.***
-*   **Male:** Durth, Ghor, Hrogar, Kharg, Thrag, Urul
-*   **Female:** Batul, Garakh, Rogbut, Shel, Thora
-*   **Surnames:** Ash-Hand, Fire-Heart, Mountain-Slayer, Stone-Hide, Winter-Blood
+*   **Male:** Kruxbal, Balam, Kruxam, Balak, Kruxak, Balam, Kruxam, Balak, Kruxak, Balam
+*   **Female:** Kruxbala, Balama, Kruxama, Balaka, Kruxaka, Balama, Kruxama, Balaka, Kruxaka, Balama
+*   **Surnames:** Krux’bal, Bal’am, Krux’am, Bal’ak, Krux’ak, Bal’am, Krux’am, Bal’ak, Krux’ak, Bal’am
 
 ***Ability Score Increase.*** Your Constitution and Wisdom scores each increase by 1 to a maximum of 20.
 
@@ -43,9 +43,9 @@
 > The Drak’zumak, or "Blood-Step Clan," are the orcs who have chosen to live a nomadic life on the open plains. They are a people of honor and discipline, their lives a constant journey of hunting and raiding. They are masters of mounted combat, their swift wolves and keen eyesight making them a force to be reckoned with on the open plains.
 
 ***Names.***
-*   **Male:** Garrosh, Grom, Hellscream, Kargath, Kilrogg, Orgrim, Saurfang, Varok
-*   **Female:** Draka, Garona, Griselda, Kashur, Krenna, Thromka
-*   **Surnames:** Blade-Dancer, Blood-Howl, Doom-Hammer, Hell-Scream, Wolf-Rider
+*   **Male:** Drakzum, Zumak, Drakak, Zumam, Drakam, Zumak, Drakak, Zumam, Drakam, Zumak
+*   **Female:** Drakzuma, Zumaka, Drakaka, Zumama, Drakama, Zumaka, Drakaka, Zumama, Drakama, Zumaka
+*   **Surnames:** Drak’zum, Zum’ak, Drak’ak, Zum’am, Drak’am, Zum’ak, Drak’ak, Zum’am, Drak’am, Zum’ak
 
 ***Ability Score Increase.*** Your Dexterity and Strength scores each increase by 1 to a maximum of 20.
 

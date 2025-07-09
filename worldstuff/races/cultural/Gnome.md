@@ -13,9 +13,9 @@
 > The ǃak’tunor, or "Machine-Weaving Kin," are the most mechanically-minded of the gnomes. They are masters of invention and artifice, their workshops filled with the constant whirring and clicking of their creations. They are predominantly Rock Gnomes, their connection to the earth giving them a unique insight into the properties of metal and stone.
 
 ***Names.***
-*   **Male:** Alston, Boddynock, Frug, Gerbo, Gimble, Glim, Jebeddo, Namfoodle, Roondar, Zook
-*   **Female:** Bimpnottin, Caramip, Duvamil, Ella, Ellywick, Lilli, Loopmottin, Mardnab, Roywyn, Shamil
-*   **Surnames:** Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Timbers, Turen
+*   **Male:** ǃaktun, Tunor, ǃakshi, ǂomka, Kalar, ǃakshi, Tunra, ǂomlar, ǃakor, Kashi
+*   **Female:** ǃaktuna, Tunora, ǃakshira, ǂomkara, Kalara, ǃakshia, Tunraa, ǂomlara, ǃakora, Kashia
+*   **Surnames:** ǃak’tun, Tun’or, ǀen’shi, ǂom’ka, Ka’lar, ǃak’or, Tun’ra, ǂom’lar, ǀen’ra, Ka’or
 
 ***Ability Score Increase.*** Your Intelligence score increases by 2 to a maximum of 20.
 
@@ -31,9 +31,9 @@
 > The ǀen’shira, or "Nature-Whispering Folk," are the gnomes who have dedicated their lives to the study of the natural world. They are masters of illusion and animal kinship, their magic as subtle and beautiful as the forest they call home. They are predominantly Forest Gnomes, their connection to the wild giving them a unique bond with the creatures of the earth.
 
 ***Names.***
-*   **Male:** Alvyn, Brocc, Eldon, Frug, Kellen, Ku, Orryn, Sinjin, Warryn, Wrenn
-*   **Female:** Breena, Carlin, Donella, Lilli, Lorilla, Nissa, Nyx, Oda, Roswyn, Tana
-*   **Surnames:** Garrick, Nackle, Murnig, Timbers, Turen
+*   **Male:** ǀenshi, Shira, ǀenra, Shika, Ralar, ǀenshi, Shira, ǀenra, Shika, Ralar
+*   **Female:** ǀenshira, Shiraa, ǀenraa, Shikara, Ralara, ǀenshia, Shiraa, ǀenraa, Shikara, Ralara
+*   **Surnames:** ǀen’shi, Shi’ra, ǀen’ra, Shi’ka, Ra’lar, ǀen’or, Shi’or, Ra’or, ǀen’ka, Shi’lar
 
 ***Ability Score Increase.*** Your Wisdom score increases by 2 to a maximum of 20.
 
@@ -46,9 +46,9 @@
 > The ǂom’kalar, or "Knowledge-Keeping Clan," are the historians and loremasters of the gnomish people. They are the keepers of ancient secrets and the chroniclers of gnomish history, their minds as sharp as the clicks they use to emphasize their words.
 
 ***Names.***
-*   **Male:** Boddynock, Dimble, Fonkin, Gimble, Glim, Orryn, Roondar, Seebo, Zook
-*   **Female:** Bimpnottin, Breena, Donella, Duvamil, Ellywick, Lilli, Roywyn, Tana
-*   **Surnames:** Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Timbers, Turen
+*   **Male:** ǂomka, Kalar, ǂomlar, Kashi, Larom, ǂomka, Kalar, ǂomlar, Kashi, Larom
+*   **Female:** ǂomkara, Kalara, ǂomlara, Kashia, Laroma, ǂomkara, Kalara, ǂomlara, Kashia, Laroma
+*   **Surnames:** ǂom’ka, Ka’lar, ǂom’lar, Ka’shi, Lar’om, ǂom’or, Ka’or, Lar’or, ǂom’shi, Ka’shi
 
 ***Ability Score Increase.*** Your Intelligence or Wisdom score increases by 2 to a maximum of 20.
 

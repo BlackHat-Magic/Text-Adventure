@@ -13,9 +13,9 @@
 > The Grai’mkag, or "Peak of Stone," are the goblins of the mountains. They are a hardy and warlike people, their bodies as tough as the rock they call home. They are masters of ambush and guerrilla warfare, their knowledge of the mountain passes and their cunning traps making them a formidable foe.
 
 ***Names.***
-*   **Male:** Zog, Grol, Klarg, Lhupo, Yegg
-*   **Female:** Gleep, Lhek, Meeko, Squee, Zot
-*   **Surnames:** Rock-Biter, Stone-Tosser, Cave-Crasher, Peak-Prowler, Tunnel-Rat
+*   **Male:** Graikag, Murkzhoil, Vaundrak, Fraakvolk, Kagmurk, Zhoilgrai, Drakvaun, Volkfraak, Graimurk, Kagzhoil
+*   **Female:** Graika, Murkzhola, Vauna, Fraaka, Kagmurka, Zhoilgraia, Drakvauna, Volkfraaka, Graimurka, Kagzhola
+*   **Surnames:** Grai’kag, Murk’zhoil, Vaun’drak, Fraak’volk, Kag’murk, Zhoil’grai, Drak’vaun, Volk’fraak, Grai’murk, Kag’zhoil
 
 ***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20.
 
@@ -28,9 +28,9 @@
 > The Murk'Zhoil, or "Shadow Hollow," are the goblins of the forest. They are a stealthy and cunning people, their green skin and small stature making them all but invisible in the dense undergrowth. They are masters of the hunt, their poisoned arrows and silent snares the bane of any who would trespass in their territory.
 
 ***Names.***
-*   **Male:** Griz, Snarl, Krib, Zib, Grot
-*   **Female:** Flea, Pip, Snik, Wex, Zib
-*   **Surnames:** Leaf-Runner, Shadow-Skulker, Vine-Creeper, Wood-Wight, Bog-Trotter
+*   **Male:** Murkzhoil, Zhoilgrai, Kagmurk, Graikag, Vaundrak, Fraakvolk, Drakvaun, Volkfraak, Murkgrai, Zhoilkag
+*   **Female:** Murkzhola, Zhoilgraia, Kagmurka, Graika, Vauna, Fraaka, Drakvauna, Volkfraaka, Murkgraia, Zhoilkaga
+*   **Surnames:** Murk’Zhoil, Zhoil’Grai, Kag’Murk, Grai’Kag, Vaun’Drak, Fraak’Volk, Drak’Vaun, Volk’Fraak, Murk’Grai, Zhoil’Kag
 
 ***Ability Score Increase.*** Your Dexterity and Wisdom scores each increase by 1 to a maximum of 20.
 
@@ -43,9 +43,9 @@
 > The Vaun'drak, or "Wind Runners," are the goblins of the plains. They are a nomadic and free-spirited people, their lives as open and untamed as the grasslands they roam. They are masters of mounted combat, their swift wolves and keen eyesight making them a force to be reckoned with on the open plains.
 
 ***Names.***
-*   **Male:** Durn, Grol, Klarg, Lhupo, Yegg
-*   **Female:** Gleep, Lhek, Meeko, Squee, Zot
-*   **Surnames:** Dust-Kicker, Grass-Stalker, Wind-Chaser, Wolf-Rider, Sun-Scorched
+*   **Male:** Vaundrak, Drakvaun, Fraakvolk, Volkfraak, Graikag, Murkzhoil, Kagmurk, Zhoilgrai, Vaunfraak, Drakvolk
+*   **Female:** Vauna, Drakvauna, Fraaka, Volkfraaka, Graika, Murkzhola, Kagmurka, Zhoilgraia, Vaunfraaka, Drakvolka
+*   **Surnames:** Vaun’Drak, Drak’Vaun, Fraak’Volk, Volk’Fraak, Grai’Kag, Murk’Zhoil, Kag’Murk, Zhoil’Grai, Vaun’Fraak, Drak’Volk
 
 ***Ability Score Increase.*** Your Dexterity and Charisma scores each increase by 1 to a maximum of 20.
 
@@ -58,9 +58,9 @@
 > The Fraak’volk, or "Free Folk," are the goblins who have broken free from the tyranny of Maglubiyet. They are a diverse and independent people, their cultures and beliefs as varied as the individuals who make up their ranks. They are often found in the cities and towns of other races, where they live as merchants, artisans, and adventurers.
 
 ***Names.***
-*   **Male:** Any goblin name, or a name from another culture.
-*   **Female:** Any goblin name, or a name from another culture.
-*   **Surnames:** Often take on the surnames of the culture they live in, or a descriptive name of their own choosing.
+*   **Male:** Fraakvolk, Volkfraak, Graikag, Murkzhoil, Vaundrak, Drakvaun, Kagmurk, Zhoilgrai, Fraakgrai, Volkdrak
+*   **Female:** Fraaka, Volkfraaka, Graika, Murkzhola, Vauna, Drakvauna, Kagmurka, Zhoilgraia, Fraakgraia, Volkdraka
+*   **Surnames:** Fraak’Volk, Volk’Fraak, Grai’Kag, Murk’Zhoil, Vaun’Drak, Drak’Vaun, Kag’Murk, Zhoil’Grai, Fraak’Grai, Volk’Drak
 
 ***Ability Score Increase.*** Two different ability scores of your choice increase by 1 to a maximum of 20.
 

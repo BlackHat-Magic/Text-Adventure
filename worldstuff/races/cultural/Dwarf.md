@@ -13,9 +13,9 @@
 > The Kharzûd-Vor, or "Forge-Master Kin," are the heart of dwarven society. They are the artisans, the builders, and the creators, their hands shaping the raw materials of the earth into objects of beauty and power. Their forges burn day and night, their hammers ringing out a constant rhythm of creation that is the lifeblood of the dwarven holds.
 
 ***Names.***
-*   **Male Names:** Adrik, Baern, Darrak, Fargrim, Gardain, Harbek, Kildrak, Morgran, Orsik, Thoradin
-*   **Female Names:** Amber, Artin, Dariff, Eldeth, Finellen, Helja, Kathra, Mardred, Riswynn, Sannl
-*   **Surnames:** Balderk, Dankil, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn
+*   **Male Names:** Kharzud, Vorgan, Thargun, Durgaz, Kholgaz, Gazdur, Gunkhar, Okthar, Vordur, Khardur
+*   **Female Names:** Gûna, Vorna, Thara, Dûra, Khola, Gaza, Okka, Vora, Kharda, Dûrgaza
+*   **Surnames:** Kharz-Vor, Thurok, Gûn-Dûr, Dûr-Gaz, Khol-Gaz, Gaz-Dûr, Gûn-Khar, Ok-Thar, Vor-Dûr, Khar-Dûr
 
 ***Ability Score Increase.*** Your Intelligence and Wisdom scores each increase by 1 to a maximum of 20.
 
@@ -30,9 +30,9 @@
 > The Tharok-Gûn, or "Shield-Clan Protectors," are the unyielding defenders of the dwarven people. They are the warriors, the guardians, and the sentinels, their lives dedicated to the protection of their homes and their kin. They stand as a living wall against the dangers of the world, their shields and axes a symbol of dwarven strength and resolve.
 
 ***Names.***
-*   **Male Names:** Alberich, Bruenor, Dain, Eberk, Gandalug, Kilvar, Rurik, Taklinn, Thorin, Tordek
-*   **Female Names:** Beyla, Dagnal, Gunnloda, Hlin, Ilga, Liftrasa, Torbera, Vistra, Yurgunn
-*   **Surnames:** Battlehammer, Fireforge, Frostbeard, Ironhand, Rockseeker, Steel-Shield, Stone-Eye, Thunder-Mane
+*   **Male Names:** Thork, Gûn, Okthar, Vorgan, Khardur, Durgaz, Gazdur, Vordur, Thargun, Kharzud
+*   **Female Names:** Thora, Gûna, Okka, Vora, Kharda, Dûra, Gaza, Vora, Thara, Kharza
+*   **Surnames:** Thar-Ok, Gûn-Vor, Ok-Thar, Vor-Gûn, Khar-Dûr, Dûr-Gaz, Gaz-Dûr, Vor-Dûr, Thar-Gûn, Khar-Zud
 
 ***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20.
 
@@ -43,9 +43,9 @@
 > The Dûrgaz-Khol, or "Deep-Delving Seekers," are the explorers and pioneers of the dwarven race. They are the miners, the prospectors, and the adventurers, their spirits drawn to the dark and mysterious places of the world. They are ever seeking new veins of ore, new caverns to explore, and new secrets to unearth from the heart of the mountain.
 
 ***Names.***
-*   **Male Names:** Barendd, Brottor, Duergath, Ilde, Nordak, Orin, Quelenna, Traubon, Ulfgar, Vondal
-*   **Female Names:** Audhild, Bramdila, Dworic, Grista, Ingra, Jissa, Nalda, Rinda, Tithmel, Zebel
-*   - **Surnames:** Deep-Delver, Gem-Finder, Mithril-Vein, Stone-Heart, Tunnel-Runner
+*   **Male Names:** Dûrgaz, Kholgaz, Gazdur, Vordur, Thargun, Kharzud, Gunkhar, Okthar, Vorgan, Khardur
+*   **Female Names:** Dûra, Khola, Gaza, Vora, Thara, Kharza, Gûna, Okka, Vorna, Kharda
+*   **Surnames:** Dûr-Gaz, Khol-Gaz, Gaz-Dûr, Vor-Dûr, Thar-Gûn, Khar-Zud, Gûn-Khar, Ok-Thar, Vor-Gûn, Khar-Dûr
 
 ***Ability Score Increase.*** Your Dexterity and Charisma scores each increase by 1 to a maximum of 20.
 
