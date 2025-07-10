@@ -1,46 +1,21 @@
 # Dwarf
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Dwarves are a proud and industrious people, their hearts as sturdy as the mountains they call home. They are masters of craft and invention, their hands shaping stone and metal with an artistry that is the envy of other races. Though they can be stubborn and gruff, their loyalty to their clan and their friends is as unyielding as the bedrock of the world.
 
-***Language.*** You can speak, read, and write Common and Dwarvish.\
-
-<note>
-Language like so:
-
-- Phonological Inventory
-    - **Consanants:** /p b t d k g/ /f v s z x ɣ/ /m n ŋ/ /r l/ (heavy on guttural sounds like /x ɣ/, frequent clusters like /kr gr st/).
-    - **Vowels:** /a ɛ i o u/ (simple, grounded vowel system, often short and sharp).
-    - **Features:** Frequent consonant clusters (e.g., “Khr,” “Dûrg”), guttural fricatives (/x/ as in “loch”), and a preference for back vowels (/a o u/).
-
-- Phonotactics
-    - **Syllable Structure:** (C)(C)V(C)(C) – allows complex clusters at the start and end (e.g., “Khrûzd” or “Tharok”).
-    - **Rules:** Clusters often involve stops + fricatives or liquids (e.g., /kr st gr/). Vowels rarely appear in sequence; diphthongs are uncommon.
-    - **Stress:** Always on the first syllable, giving words a heavy, grounded feel (e.g., KHAR-zûd).
-</note>
+***Language.*** You can speak, read, and write Common and Dwarvish.
 
 ## Subraces
 
-<note>
-Add a descriptive flavor blurb here
-
-Dwarves have a strong clan culture, where these subraces come from.
-</note>
+> Dwarven society is built upon the foundation of the clan, a complex web of kinship and loyalty that defines every dwarf's place in the world. These cultural subraces represent the three main pillars of dwarven society, each with its own traditions, responsibilities, and skills.
 
 ### Kharzûd-Vor
 
-<note>
-Name explanation (from Kharz = “forge” + ûd = “mastery” + Vor = “kin/clan”). Reflects their mastery of smithing and crafting, a central pillar of their identity.
-</note>
+> The Kharzûd-Vor, or "Forge-Master Kin," are the heart of dwarven society. They are the artisans, the builders, and the creators, their hands shaping the raw materials of the earth into objects of beauty and power. Their forges burn day and night, their hammers ringing out a constant rhythm of creation that is the lifeblood of the dwarven holds.
 
-<note>
-Add a descriptive flavor blurb here
-</note>
-
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male Names:** Kharzud, Vorgan, Thargun, Durgaz, Kholgaz, Gazdur, Gunkhar, Okthar, Vordur, Khardur
+*   **Female Names:** Gûna, Vorna, Thara, Dûra, Khola, Gaza, Okka, Vora, Kharda, Dûrgaza
+*   **Surnames:** Kharz-Vor, Thurok, Gûn-Dûr, Dûr-Gaz, Khol-Gaz, Gaz-Dûr, Gûn-Khar, Ok-Thar, Vor-Dûr, Khar-Dûr
 
 ***Ability Score Increase.*** Your Intelligence and Wisdom scores each increase by 1 to a maximum of 20.
 
@@ -52,17 +27,12 @@ Include some example first names (both male and female) and surnames.
 
 ### Tharok-Gûn
 
-<note>
-Name explanation (from Thar = “shield” + ok = “clan” + Gûn = “protector”). Emphasizes their role as defenders of dwarven holds and traditions.
-</note>
+> The Tharok-Gûn, or "Shield-Clan Protectors," are the unyielding defenders of the dwarven people. They are the warriors, the guardians, and the sentinels, their lives dedicated to the protection of their homes and their kin. They stand as a living wall against the dangers of the world, their shields and axes a symbol of dwarven strength and resolve.
 
-<note>
-Add a descriptive flavor blurb here
-</note>
-
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male Names:** Thork, Gûn, Okthar, Vorgan, Khardur, Durgaz, Gazdur, Vordur, Thargun, Kharzud
+*   **Female Names:** Thora, Gûna, Okka, Vora, Kharda, Dûra, Gaza, Vora, Thara, Kharza
+*   **Surnames:** Thar-Ok, Gûn-Vor, Ok-Thar, Vor-Gûn, Khar-Dûr, Dûr-Gaz, Gaz-Dûr, Vor-Dûr, Thar-Gûn, Khar-Zud
 
 ***Ability Score Increase.*** Your Strength and Constitution scores each increase by 1 to a maximum of 20.
 
@@ -70,17 +40,12 @@ Include some example first names (both male and female) and surnames.
 
 ### Dûrgaz-Khol
 
-<note>
-Name explanation (from Dûr = “deep” + gaz = “delve/explore” + Khol = “seekers”). Highlights their connection to mining and exploring the deepest caverns.
-</note>
+> The Dûrgaz-Khol, or "Deep-Delving Seekers," are the explorers and pioneers of the dwarven race. They are the miners, the prospectors, and the adventurers, their spirits drawn to the dark and mysterious places of the world. They are ever seeking new veins of ore, new caverns to explore, and new secrets to unearth from the heart of the mountain.
 
-<note>
-Add a descriptive flavor blurb here
-</note>
-
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male Names:** Dûrgaz, Kholgaz, Gazdur, Vordur, Thargun, Kharzud, Gunkhar, Okthar, Vorgan, Khardur
+*   **Female Names:** Dûra, Khola, Gaza, Vora, Thara, Kharza, Gûna, Okka, Vorna, Kharda
+*   **Surnames:** Dûr-Gaz, Khol-Gaz, Gaz-Dûr, Vor-Dûr, Thar-Gûn, Khar-Zud, Gûn-Khar, Ok-Thar, Vor-Gûn, Khar-Dûr
 
 ***Ability Score Increase.*** Your Dexterity and Charisma scores each increase by 1 to a maximum of 20.
 

@@ -1,64 +1,36 @@
 # Elf
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Elves are a graceful and long-lived people, with a deep connection to the magic that flows through the world. They are known for their artistry, their wisdom, and their love of the natural world.
 
 ***Language.*** You can speak, read, and write Common and Elvish.
 
-<note>
-Language like so:
+## Subraces
 
-- Phonological Inventory
-    - **Consonants:** /p t k/ /f s ʃ h/ /m n l r/ /j w/ (light, flowing sounds, avoiding harsh gutturals).
-    - **Vowels:** /i e ɛ a o u/ + diphthongs /ai ei oi au/ + tripthongs /aɪe/, /eɪo/, /oʊi/ (rich vowel system for a musical quality).
-    - **Features:** Frequent liquid consonants (/l r/), diphthongs, and now triphthongs for a musical quality, though less complex than Sylvan to show divergence.
-
-- Phonotactics
-    - **Syllable Structure:** (C)V(V)(C) – allows triphthongs in a single syllable, though less frequent than in Sylvan (e.g., “Thaɪe-lis” as /θaɪe.lis/).
-    - **Rules:** Consonants rarely cluster; vowels can form sequences or diphthongs. Triphthongs are less common than diphthongs and often appear in poetic or noble speech (e.g., names of Aelthaɪen’thar Elves or ancient terms). They’re typically word-medial or final. Final syllables still often end in /l n r/.
-    - **Stress:** Penultimate syllable, or on the triphthong if present, for a lilting rhythm (e.g., THAɪE-lis).
-</note>
-
-## Subrace
-
-<note>
-Add a descriptive flavor blurb here
-</note>
+> Elven society is as varied as the forests they call home, with each subrace representing a different facet of the elven spirit.
 
 ### Aelthaɪen’thar
 
-<note>
-Name explanation (from Ael = “high/noble” + thaɪen = “light/radiance” + en = suffix for “of/from” + thar = "gathering/court"). Reflects their sophisticated, aristocratic society.
-</note>
+> The Aelthaɪen’thar, or "High Court," are the most magically inclined of the elves, and they know it. They are often seen as arrogant and aloof by other races, but their mastery of the arcane is undeniable. They dwell in magnificent cities of crystal and light, where they dedicate their long lives to the study of magic and the pursuit of perfection.
 
-<note>
-Add a descriptive flavor blurb here. Aelthaɪen’thar are seen as rather snobbish and uppity.
-</note>
-
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Aelthaen, Tharen, Sylvaen, Maroʊi, Thilfain, Aelthar, Vaenthir, Maroʊithil, Sylfain, Aelvaen
+*   **Female:** Aelthara, Thaena, Sylvaena, Maroʊia, Thilfaina, Aelthira, Vaenthira, Maroʊithila, Sylfaina, Aelvaena
+*   **Surnames:** Aelthaɪen, Thaɪen’thar, Sylvaen, Maroʊi, Thilfain, Ael’thar, Vaenthir, Maroʊi’thil, Sylfain, Aelvaen
 
 ***Ability Score Increase.*** Either your Intelligence score and Charisma scores each increase by 1 to a maximum of 20, your Intelligence score increases by 2 to a maximum of 20, or your Charisma score increases by 2 to a maximum of 20.
 
-***Extra Languages.*** You can speak, read, and write one other common or rare language of your choice.
-
 ***Courtly Manner.*** You have proficiency in one of the following skills: Deception, History, Investigation, or Persuasion.
 
-### Sylvandrel.
+***Extra Languages.*** You can speak, read, and write one other common or rare language of your choice.
 
-<note>
-Name explanation (from Syl = “forest” + van = “guard/protect” + drel = “kin”). Emphasizes their role as stewards of nature.
-</note>
+### Sylvandrel
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> The Sylvandrel, or "Forest Kin," are the guardians of the wild places. They are masters of the bow and the blade, their senses as sharp as the arrows they nock. They live in harmony with nature, their homes woven into the very fabric of the forest.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Sylvaen, Vaenthir, Thilfain, Aelthar, Maroʊi, Aelthaen, Tharen, Maroʊithil, Sylfain, Aelvaen
+*   **Female:** Sylvaena, Vaenthira, Thilfaina, Aelthara, Maroʊia, Aelthaena, Tharena, Maroʊithila, Sylfaina, Aelvaena
+*   **Surnames:** Sylvaen, Vaen’thir, Thilfain, Ael’thar, Maroʊi, Aelthaɪen, Thaɪen’thar, Maroʊi’thil, Sylfain, Aelvaen
 
 ***Ability Score Increase.*** Either your Dexterity and Constitution scores each increse by 1 to a maximum of 20, your Dexterity score increases by 2 to a maximum of 20, or your Charisma score increases by 2 to a maximum of 20.
 
@@ -70,17 +42,12 @@ Include some example first names (both male and female) and surnames.
 
 ### Maroʊi’thil
 
-<note>
-Name explanation (from Mar = "sea/ocean" + oʊi = "wave/flow" + thil = "people"). Captures their connection to the ocean and fluid, wandering lifestyle.
-</note>
+> The Maroʊi’thil, or "Sea Folk," are the children of the ocean. They are a nomadic people, their lives as fluid as the currents they follow. They are skilled sailors and navigators, their knowledge of the sea second to none.
 
-<note>
-Add a descriptive flavor blurb here.
-</note>
-
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Maroʊi, Thilfain, Aelthar, Sylvaen, Vaenthir, Aelthaen, Tharen, Maroʊithil, Sylfain, Aelvaen
+*   **Female:** Maroʊia, Thilfaina, Aelthara, Sylvaena, Vaenthira, Aelthaena, Tharena, Maroʊithila, Sylfaina, Aelvaena
+*   **Surnames:** Maroʊi, Thil’fain, Ael’thar, Sylvaen, Vaen’thir, Aelthaɪen, Thaɪen’thar, Maroʊi’thil, Sylfain, Aelvaen
 
 ***Ability Score Increase.*** Either your Strength and Constitution scores each increase by 1 to a maximum of 20, your Strength score increases by 2 to a maximum of 20, or your Constitution score increases by 2 to a maximum of 20.
 

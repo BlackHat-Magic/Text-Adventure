@@ -1,73 +1,67 @@
 # Human
 
-<note>
-Add descriptive flavor blurb here. Humans are the most common race on the material plane, and extremely varied.
-</note>
+> Humans are the most numerous and adaptable of all the races, their settlements and cities dotting the landscape in every corner of the world. They are a people of boundless ambition and endless variety, their cultures and traditions as diverse as the individuals who make them up.
 
 ***Languages.*** You can speak, read, and write Common and one other common language of your choice.
 
-<note>
-Language is Common, which will just be English.
-</note>
+## Subraces
 
-## Subrace
-
-<note>
-Add a descriptive flavor blurb here.
-</note>
+> Human society is a tapestry woven from a thousand different threads, with each subrace representing a different strand in that complex and beautiful design.
 
 ### Rivertrade Folk
 
-<note>
-Add a descriptive flavor blurb here. (merchants and travelers along major waterways, culturally adaptable).
-</note>
+> The Rivertrade Folk are the lifeblood of the world, their boats and barges carrying goods and news along the great rivers that connect the cities and towns of the land. They are a people of endless adaptability and easy charm, their lives a constant flow of new faces and new opportunities.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Kael, Rhys, Soren, Finnian, Alden, Rowan, Asher, Liam, Ethan, Caleb
+*   **Female:** Lyra, Elara, Seraphina, Isla, Maeve, Cora, Willow, Aurora, Luna, Freya
+*   **Surnames:** Rivers, Thorne, Stone, Blackwood, Marsh, Ford, Grey, Fields, Brooks, Shaw
 
-<note>
-Add racial features here
-</note>
+***Ability Score Increase.*** Your Charisma score increases by 2 to a maximum of 20.
+
+***River Rat.*** You have a swimming speed of 30 feet and proficiency with vehicles (water).
+
+***Silver Tongue.*** You have proficiency in the Persuasion skill.
 
 ### Hearthbound Clans
 
-<note>
-Add a descriptive flavor blurb here. (agrarian, community-focused people in fertile plains).
-</note>
+> The Hearthbound Clans are the heart of the world, their farms and villages the foundation upon which the great cities are built. They are a people of deep roots and strong traditions, their lives a cycle of planting and harvest, of community and kinship.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Silas, Owen, Jasper, Alden, Bram, Cole, Edmund, Gideon, Tobin, Warren
+*   **Female:** Hazel, Olive, Clara, Aveline, Beatrice, Edith, Mabel, Penelope, Tabitha, Winifred
+*   **Surnames:** Miller, Farmer, Oakhurst, Wheatley, Applebottom, Greenhand, Hayfield, Thatcher, Croft, Meadowsweet
 
-<note>
-Add racial features here
-</note>
+***Ability Score Increase.*** Your Wisdom score increases by 2 to a maximum of 20.
+
+***Animal Husbandry.*** You have proficiency in the Animal Handling skill.
+
+***Tool Proficiency.*** You gain proficiency with one type of artisan's tools from among cook's utensils, brewer's supplies, or carpenter's tools.
 
 ### Ironstep Legion
 
-<note>
-Add a descriptive flavor blurb here. (militaristic culture from a fortified region, valuing discipline).
-</note>
+> The Ironstep Legion is the fist of the world, their legions and fortresses a bulwark against the darkness that threatens to consume it. They are a people of iron discipline and unwavering courage, their lives a constant drill of training and battle.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Valerius, Maximus, Cassian, Lucius, Marcus, Antonius, Decimus, Flavius, Gaius, Julius
+*   **Female:** Valeria, Marcia, Livia, Aelia, Antonia, Claudia, Flavia, Julia, Octavia, Porcia
+*   **Surnames:** Aquila, Corvus, Falco, Gallus, Lupus, Maximus, Rufus, Valerius, Ferrum, Scipio
 
-<note>
-Add racial features here
-</note>
+***Ability Score Increase.*** Your Strength score increases by 2 to a maximum of 20.
+
+***Legionary Training.*** You have proficiency with light and medium armor, shields, and all simple and martial weapons.
 
 ### Starwoven Seers
 
-<note>
-Add a descriptive flavor blurb here. (mystical, nomadic people guided by astrology and prophecy).
-</note>
+> The Starwoven Seers are the soul of the world, their prophecies and visions a guiding light in the darkness. They are a mystical and nomadic people, their lives a constant journey of discovery, their eyes always turned to the heavens.
 
-<note>
-Include some example first names (both male and female) and surnames.
-</note>
+***Names.***
+*   **Male:** Orion, Caspian, Alaric, Draco, Phoenix, Sterling, Theron, Zephyr, Altair, Sirius
+*   **Female:** Lyra, Nova, Amara, Ophelia, Seraphina, Skye, Vespera, Zephyra, Astra, Celeste
+*   **Surnames:** Stargazer, Moonwhisper, Sunstrider, Clouddancer, Skyreader, Dreamweaver, Nightsinger, Starcaller, Cometchaser, Oracleborn
 
-<note>
-Add racial features here
-</note>
+***Ability Score Increase.*** Your Intelligence score increases by 2 to a maximum of 20.
+
+***Cosmic Cantrip.*** You know the *guidance* cantrip.
+
+***Star-Reader.*** You have proficiency in the Arcana or Religion skill (your choice).

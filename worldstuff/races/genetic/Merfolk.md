@@ -1,8 +1,8 @@
 # Merfolk
 
-Dwelling primarily beneath the waves, merfolk are an ancient and diverse people with various aquatic adaptations. Though numerous, they are rarely interact with surface dwellers.
+> Dwelling primarily beneath the waves, merfolk are an ancient and diverse people with various aquatic adaptations. Though numerous, they are rarely interact with surface dwellers.
 
-Merfolk have humanoid upper bodies, adorned with fins and other anatomy from their aquatic lineage, and fish-like lower bodies.
+> Merfolk have humanoid upper bodies, adorned with fins and other anatomy from their aquatic lineage, and fish-like lower bodies.
 
 ***Ability Score Increase.*** Your Constitution score increases by 1 to a maximum of 20.
 
@@ -22,7 +22,11 @@ Merfolk have humanoid upper bodies, adorned with fins and other anatomy from the
 
 ## Subraces
 
+> The merfolk bloodline is as deep and mysterious as the ocean itself, with each subrace a testament to the different paths their ancestors took in their journey through the endless blue.
+
 ### Axolotl
+
+> Axolotl merfolk are the most resilient and adaptable of the merfolk subraces. They are the descendants of the ancient merfolk who first learned to walk on land, and they carry the regenerative power of their ancestors in their very blood.
 
 ***Ability Score Increase.*** Your Charisma score increases by 1.
 
@@ -32,6 +36,8 @@ Merfolk have humanoid upper bodies, adorned with fins and other anatomy from the
 
 ### Angler Fish
 
+> Angler fish merfolk are the most mysterious and enigmatic of the merfolk subraces. They are the descendants of the ancient merfolk who first delved into the darkest depths of the ocean, and they carry the secrets of the abyss in their very souls.
+
 ***Ability Score Increase.*** Your Wisdom score increases by 2 and your Dexterity Score increases by 1, each to a maximum of 20.
 
 ***Bioluminescence.*** As an action on your turn, you can cause parts of your extremities to light up. For one hour, you emit bright light in a 30-foot radius and dim light for an additional 30 feet. As a bonus action until this effect ends, you can cause the light to cease, or reappear. Once you use this feature, you can't do so again until you finish a Short or Long Rest.
@@ -39,6 +45,8 @@ Merfolk have humanoid upper bodies, adorned with fins and other anatomy from the
 ***Deep-Sea Ambusher.*** You have proficiency in the Perception skill. Additionally, you have advantage on attack rolls if you or the target is in dim light or darkness, and you don't have disadvantage on attack rolls against creatures you can't see.
 
 ### Dolphin
+
+> Dolphin merfolk are the most intelligent and social of the merfolk subraces. They are the descendants of the ancient merfolk who first learned to speak with the creatures of the sea, and they carry the wisdom of the ocean in their very minds.
 
 ***Ability Score Increase.*** Your Intelligence score increases by 2 and your Wisdom score increases by 1, each to a maximum of 20.
 
@@ -50,11 +58,15 @@ Merfolk have humanoid upper bodies, adorned with fins and other anatomy from the
 
 ### Lion Fish
 
+> Lion fish merfolk are the most beautiful and deadly of the merfolk subraces. They are the descendants of the ancient merfolk who first learned to harness the power of venom, and they carry the poison of the sea in their very veins.
+
 ***Ability Score Increase.*** Your Dexterity score increases by 2 and your Constitution score increases by 1, each to a maximum of 20.
 
 ***Venomous Spines.*** Your extremities are adorned with sharp, venomous spines that you can use to make unarmed strikes. You are proficient with them. When you hit with them, the strike deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning famage normal for an unarmed strike. Additionally, the target must make a Constitution saving throw or take an additional 1d4 poison damage and be poisoned for 1 minute. The DC is equal to 8 + your proficiency bonus + your Constitution modifier. If the creature fails by 5 or more, it falls unconscious while poisoned in this way. While poisoned in this way, the creature takes 1d4 poison damage at the start of each of its turns. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Pan Shark
+
+> Pan shark merfolk are the most ferocious and predatory of the merfolk subraces. They are the descendants of the ancient merfolk who first learned to hunt the great beasts of the sea, and they carry the hunger of the ocean in their very souls.
 
 ***Ability Score Increase.*** Your Strength score increasees by 2 and your Constitution score increases by 1, each to a maximum of 20.
 

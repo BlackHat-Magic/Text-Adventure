@@ -1,6 +1,6 @@
 # Gnome
 
-Gnomes are small and cheerful folk, known for their ingenuity, their love of jokes, and their connection to the natural world. They are relatively common, being about one-fifth as numerous as humans.
+> Gnomes are small and cheerful folk, known for their ingenuity, their love of jokes, and their connection to the natural world. They are relatively common, being about one-fifth as numerous as humans.
 
 ***Ability Score Increase.*** Your Intelligence score increases by 1 to a maximum of 20.
 
@@ -14,7 +14,11 @@ Gnomes are small and cheerful folk, known for their ingenuity, their love of jok
 
 ## Subraces
 
+> The gnomish bloodline is as curious and inventive as the gnomes themselves, with each subrace a testament to the different paths their ancestors took in their quest for knowledge.
+
 ### Forest Gnome
+
+> Forest gnomes are the most attuned to nature of the gnomish subraces. They are the descendants of the ancient gnomes who first learned to speak with the animals of the forest, and they carry the magic of the wild in their very hearts.
 
 ***Natural Illusionist.*** You know the Minor Illusion cantrip. Intelligence is your spellcasting ability for it.
 
@@ -22,8 +26,8 @@ Gnomes are small and cheerful folk, known for their ingenuity, their love of jok
 
 ### Rock Gnome
 
+> Rock gnomes are the most mechanically inclined of the gnomish subraces. They are the descendants of the ancient gnomes who first learned to shape stone and metal to their will, and they carry the ingenuity of those creations in their very minds.
+
 ***Ability Score Improvement.*** Your Constitution score increases by 1 to a amaximum of 20.
 
 ***Stone Camouflage.*** If you would make a Dexterity (Stealth) check to hide amongst rocky or stony terrain, your proficiency bonus is doubled if it applies to that check if it is not already doubled (such as from expertise).
-
-### ...
